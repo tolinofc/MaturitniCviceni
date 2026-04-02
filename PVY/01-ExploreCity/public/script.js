@@ -1,71 +1,50 @@
-const cities = document.querySelector('.cities')
-const places = document.querySelector('.city-detail')
+const citiesContainer = document.querySelector('.cities')
+const placesContainer = document.querySelector('.city-detail')
+const cityTemplate = document.querySelector('#city-template');
+const placeTemplate = document.querySelector('#place-template');
 
 async function getCities(){
     const res = await fetch('/city')
     const cities = await res.json()
 
     cities.forEach(c => {
-        getCity(c)
+        const clone = cityTemplate.content.cloneNode(true);
+
+        const div = clone.querySelector('.city');
+        const img = clone.querySelector('img');
+        const p = clone.querySelector('.city-name');
+
+        div.dataset.cityId = c.id;
+        img.src = c.image_path;
+        p.textContent = c.name;
+
+        div.addEventListener('click', () => {
+            getPlaces(c.id)
+        })
+
+        citiesContainer.appendChild(clone)
     })
 }
 
 async function getPlaces(id) {
+    placesContainer.innerHTML = ''
+
     const res = await fetch(`/city/${id}/places`)
     const places = await res.json()
 
-    console.log(places)
-
     places.forEach(p => {
-        getPlace(p)
+        const clone = placeTemplate.content.cloneNode(true)
+
+        const img = clone.querySelector('img')
+        const placeName = clone.querySelector('.place-name')
+        const placeType = clone.querySelector('.place-type')
+
+        img.src = 'https://placehold.co/600x400'
+        placeName.textContent = p.place_name
+        placeType.textContent = p.type_name
+
+        placesContainer.appendChild(clone)
     })
-}
-
-async function getCity(city) {
-    let div = document.createElement('div')
-    let img = document.createElement('img')
-    let p = document.createElement('p')
-
-    div.classList.add('city')
-    div.dataset.cityId = city.id
-    console.log(div)
-    img.src = city.image_path
-    p.textContent = city.name
-    p.classList.add('city-name')
-
-    div.appendChild(img)
-    div.appendChild(p)
-
-    div.addEventListener('click', () => {
-        getPlaces(city.id)
-    })
-
-    cities.appendChild(div)
-}
-
-async function getPlace(place) {
-    let div = document.createElement('div')
-    let img = document.createElement('img')
-    let placeName = document.createElement('p')
-    let placeDescription = document.createElement('p')
-
-    places.innerHTML = ''
-
-    div.classList.add('place')
-
-    img.src = 'images\\Ostrava.jpg'
-
-    placeName.textContent = place.place_name
-    placeName.classList.add('place-name')
-
-    placeDescription.textContent = place.type_name
-    placeDescription.classList.add('place-description')
-
-    div.appendChild(img)
-    div.appendChild(placeName)
-    div.appendChild(placeDescription)
-
-    places.appendChild(div)
 }
 
 getCities()
