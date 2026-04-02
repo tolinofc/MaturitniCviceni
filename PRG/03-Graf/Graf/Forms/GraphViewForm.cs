@@ -20,6 +20,11 @@ namespace Graf.Forms
         //private double maxYAxis;
         //private double minYAxis;
 
+        bool isDragging = false;
+        private int startMouseX;
+        private int startScollValue;
+        private float dateWidth;
+
         private int visibleDaysCount = 50;
         public GraphViewForm(List<GraphValue> values)
         {
@@ -51,36 +56,95 @@ namespace Graf.Forms
             double maxOpen = visibleData.Max(v => v.Open);
             double minOpen = visibleData.Min(v => v.Open);
             long maxVolume = visibleData.Max(v => v.Volume);
-
-            float dateWidth = pictureBox1.Width / visibleDaysCount;
-
-            for (int i = 0; i < visibleData.Count; i++)
-            {
-
-            }
+            dateWidth = pictureBox1.Width / visibleDaysCount;
 
             Font labelFont = new Font("Arial", 10);
 
-            #region YAxis
-            int YAxisDefaultHeight = 20;
-            double YAxisRange = maxOpen - minOpen;
+            #region Axis
 
-            g.DrawString(maxOpen.ToString(), labelFont, Brushes.Black, Width - 70, 20);
-            YAxisDefaultHeight += 80;
-            for (int i = 1; i <= 4; i++)
+
+            #region YAxis
+
+            float marginBottom = 40;
+            float marginTop = 20;
+            float marginRight = 60;
+
+            float graphWidth = pictureBox1.Width - marginRight;
+            float graphHeight = pictureBox1.Height - marginBottom - marginTop;
+
+            int stepsY = 5;
+
+            for (int i = 0; i < stepsY; i++)
             {
-                string YAxisNumber = (minOpen + ((i / 4) * YAxisRange)).ToString();
-                g.DrawString(maxOpen.ToString(), labelFont, Brushes.Black, Width - 70, YAxisDefaultHeight);
-                YAxisDefaultHeight += 80;
+                float height = (float)i / (stepsY - 1);
+                float y = height * graphHeight + marginTop;
+
+                double value = maxOpen - (height * (maxOpen - minOpen));
+
+                g.DrawLine(Pens.LightGray, 0, y, graphWidth, y);
+
+                g.DrawString(value.ToString(), labelFont, Brushes.Black, graphWidth + 5, y - 6);
             }
-            g.DrawString(minOpen.ToString(), labelFont, Brushes.Black, Width - 70, 360);
+
+            #endregion
+
+            #region XAxis
+
+            int stepsX = visibleDaysCount / 5;
+
+            for (int i = 0; i < visibleData.Count; i++)
+            {
+                if (i % stepsX == 0)
+                {
+                    float x = i * dateWidth;
+
+                    string dateText = visibleData[i].Date.ToString();
+                    g.DrawString(dateText, labelFont, Brushes.Black, x, graphHeight + 30);
+                }
+            }
+
+            #endregion
 
             #endregion
         }
 
-        private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
         {
-            this.pictureBox1.Invalidate();
+            if (e.Button == MouseButtons.Left)
+            {
+                isDragging = true;
+                startMouseX = e.X;
+                startScollValue = hScrollBar1.Value;
+            }
+        }
+
+        private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
+        {
+            isDragging = false;
+        }
+
+        private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (isDragging)
+            {
+                int deltaX = startMouseX - e.X;
+                int newValue = hScrollBar1.Value + deltaX;
+
+                if (newValue < hScrollBar1.Minimum)
+                {
+                    newValue = hScrollBar1.Minimum;
+                }
+
+                if (newValue > hScrollBar1.Maximum)
+                {
+                    newValue = hScrollBar1.Maximum;
+                }
+
+                hScrollBar1.Value = newValue;
+                startMouseX = e.X;
+
+                pictureBox1.Invalidate();
+            }
         }
     }
 }

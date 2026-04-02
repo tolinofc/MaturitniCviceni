@@ -35,22 +35,25 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            pictureBox1.Dock = DockStyle.Fill;
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(800, 424);
+            pictureBox1.Size = new Size(800, 450);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             pictureBox1.Paint += pictureBox1_Paint;
+            pictureBox1.MouseDown += pictureBox1_MouseDown;
+            pictureBox1.MouseMove += pictureBox1_MouseMove;
+            pictureBox1.MouseUp += pictureBox1_MouseUp;
             // 
             // hScrollBar1
             // 
             hScrollBar1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            hScrollBar1.Location = new Point(0, 424);
+            hScrollBar1.Location = new Point(23, 33);
             hScrollBar1.Name = "hScrollBar1";
-            hScrollBar1.Size = new Size(800, 28);
+            hScrollBar1.Size = new Size(79, 28);
             hScrollBar1.TabIndex = 1;
-            hScrollBar1.Scroll += hScrollBar1_Scroll;
+            hScrollBar1.Visible = false;
             // 
             // GraphViewForm
             // 
