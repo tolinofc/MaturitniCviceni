@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             pictureBox1 = new PictureBox();
-            hScrollBar1 = new HScrollBar();
+            hScrollBarPan = new HScrollBar();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -45,22 +45,23 @@
             pictureBox1.MouseDown += pictureBox1_MouseDown;
             pictureBox1.MouseMove += pictureBox1_MouseMove;
             pictureBox1.MouseUp += pictureBox1_MouseUp;
+            pictureBox1.MouseWheel += pictureBox1_MouseWheel;
             // 
-            // hScrollBar1
+            // hScrollBarPan
             // 
-            hScrollBar1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            hScrollBar1.Location = new Point(23, 33);
-            hScrollBar1.Name = "hScrollBar1";
-            hScrollBar1.Size = new Size(79, 28);
-            hScrollBar1.TabIndex = 1;
-            hScrollBar1.Visible = false;
+            hScrollBarPan.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            hScrollBarPan.Location = new Point(23, 33);
+            hScrollBarPan.Name = "hScrollBarPan";
+            hScrollBarPan.Size = new Size(79, 28);
+            hScrollBarPan.TabIndex = 1;
+            hScrollBarPan.Visible = false;
             // 
             // GraphViewForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(hScrollBar1);
+            Controls.Add(hScrollBarPan);
             Controls.Add(pictureBox1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "GraphViewForm";
@@ -73,6 +74,6 @@
         #endregion
 
         private PictureBox pictureBox1;
-        private HScrollBar hScrollBar1;
+        private HScrollBar hScrollBarPan;
     }
 }

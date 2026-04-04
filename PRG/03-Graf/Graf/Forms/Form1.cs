@@ -5,14 +5,12 @@ namespace Graf
 {
     public partial class Form1 : Form
     {
-        private List<GraphValue> values = new List<GraphValue>();
         public Form1()
         {
             InitializeComponent();
 
             // TODO
-            ParseData(@"C:\Users\Tolin\Desktop\Cviceni_k_maturite\PRG\03-Graf\assignment\TSLA.csv");
-            GraphViewForm form = new GraphViewForm(values);
+            GraphViewForm form = new GraphViewForm(ParseData(@"C:\Users\Tolin\Desktop\Cviceni_k_maturite\PRG\03-Graf\assignment\TSLA.csv"));
             form.ShowDialog();
         }
 
@@ -24,14 +22,14 @@ namespace Graf
 
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                ParseData(ofd.FileName);
-                GraphViewForm form = new GraphViewForm(values);
+                GraphViewForm form = new GraphViewForm(ParseData(ofd.FileName));
                 form.ShowDialog();
             }
         }
 
-        private void ParseData(string path)
+        private List<GraphValue> ParseData(string path)
         {
+            List<GraphValue> values = new List<GraphValue>();
             using (StreamReader reader = new StreamReader(path))
             {
                 reader.ReadLine(); // first line
@@ -41,12 +39,19 @@ namespace Graf
                     GraphValue value = new GraphValue()
                     {
                         Date = DateOnly.Parse(line[0]),
-                        Open = Double.Parse(line[1].Replace(".",",")),
+                        Open = float.Parse(line[1].Replace(".",",")),
                         Volume = long.Parse(line[6].Replace(".", ","))
                     };
                     values.Add(value);
                 }
             }
+
+            for (int i = 1; i < values.Count; i++)
+            {
+                values[i].isOpenNegative = values[i - 1].Open > values[i].Open;
+            }
+
+            return values;
         }
     }
 }

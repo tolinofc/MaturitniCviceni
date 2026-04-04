@@ -15,55 +15,33 @@ namespace Graf.Forms
     {
         private List<GraphValue> data = new List<GraphValue>();
 
-        //private DateOnly maxXAxis;
-        //private DateOnly minXAxis;
-        //private double maxYAxis;
-        //private double minYAxis;
-
         bool isDragging = false;
         private int startMouseX;
-        private int startScollValue;
         private float dateWidth;
 
-        private int visibleDaysCount = 50;
-        public GraphViewForm(List<GraphValue> values)
+        private int visibleDaysCount = 250;
+        public GraphViewForm(List<GraphValue> data)
         {
             InitializeComponent();
-            this.data = values;
+            this.data = data;
 
-            hScrollBar1.Minimum = 0;
-            hScrollBar1.Maximum = values.Count - visibleDaysCount;
+            hScrollBarPan.Minimum = 0;
+            hScrollBarPan.Maximum = data.Count - visibleDaysCount;
 
-            //CalculateAxis();
+            hScrollBarPan.Value = data.Count - visibleDaysCount;
         }
-
-        //private void CalculateAxis()
-        //{
-        //    maxYAxis = data.Max(v => v.Open);
-        //    minYAxis = data.Min(v => v.Open);
-
-        //    maxXAxis = data.Max(v => v.Date);
-        //    minXAxis = data.Min(v => v.Date);
-        //}
 
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
 
-            int start = hScrollBar1.Value;
+            int start = hScrollBarPan.Value;
             List<GraphValue> visibleData = data.Skip(start).Take(visibleDaysCount).ToList();
 
-            double maxOpen = visibleData.Max(v => v.Open);
-            double minOpen = visibleData.Min(v => v.Open);
+            float maxOpen = visibleData.Max(v => v.Open);
+            float minOpen = visibleData.Min(v => v.Open);
             long maxVolume = visibleData.Max(v => v.Volume);
             dateWidth = pictureBox1.Width / visibleDaysCount;
-
-            Font labelFont = new Font("Arial", 10);
-
-            #region Axis
-
-
-            #region YAxis
 
             float marginBottom = 40;
             float marginTop = 20;
@@ -72,6 +50,12 @@ namespace Graf.Forms
             float graphWidth = pictureBox1.Width - marginRight;
             float graphHeight = pictureBox1.Height - marginBottom - marginTop;
 
+            #region Axis
+
+            Font labelFont = new Font("Arial", 10);
+
+            #region YAxis
+
             int stepsY = 5;
 
             for (int i = 0; i < stepsY; i++)
@@ -79,7 +63,7 @@ namespace Graf.Forms
                 float height = (float)i / (stepsY - 1);
                 float y = height * graphHeight + marginTop;
 
-                double value = maxOpen - (height * (maxOpen - minOpen));
+                float value = maxOpen - (height * (maxOpen - minOpen));
 
                 g.DrawLine(Pens.LightGray, 0, y, graphWidth, y);
 
@@ -106,6 +90,52 @@ namespace Graf.Forms
             #endregion
 
             #endregion
+
+            #region BarChart
+
+            float maxBarHeight = 100f;
+
+            for (int i = 0; i < visibleData.Count; i++)
+            {
+                float volumePercent = (float)visibleData[i].Volume / maxVolume;
+                float barHeight = (float)volumePercent * maxBarHeight;
+
+                float x = i * dateWidth;
+                float y = marginTop + graphHeight - barHeight;
+
+                RectangleF bar = new RectangleF(x, y, dateWidth, barHeight);
+
+                if (visibleData[i].isOpenNegative)
+                {
+                    g.FillRectangle(Brushes.Red, bar);
+                }
+                else
+                {
+                    g.FillRectangle(Brushes.Green, bar);
+                }
+            }
+
+            #endregion
+
+            #region LineGraph
+
+            PointF[] linePoints = new PointF[visibleData.Count];
+
+            float rangeOpen = maxOpen - minOpen;
+
+            for (int i = 0; i < visibleData.Count; i++)
+            {
+                float openPercent = (float)((visibleData[i].Open - minOpen) / rangeOpen);
+
+                float x = (i * dateWidth) + (dateWidth / 2f);
+                float y = (marginTop + graphHeight) - (openPercent * graphHeight);
+
+                linePoints[i] = new PointF(x, y);
+            }
+
+            g.DrawLines(Pens.Blue, linePoints);
+
+            #endregion
         }
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
@@ -114,7 +144,6 @@ namespace Graf.Forms
             {
                 isDragging = true;
                 startMouseX = e.X;
-                startScollValue = hScrollBar1.Value;
             }
         }
 
@@ -128,23 +157,48 @@ namespace Graf.Forms
             if (isDragging)
             {
                 int deltaX = startMouseX - e.X;
-                int newValue = hScrollBar1.Value + deltaX;
+                int newValue = hScrollBarPan.Value + deltaX;
 
-                if (newValue < hScrollBar1.Minimum)
+                if (newValue < hScrollBarPan.Minimum)
                 {
-                    newValue = hScrollBar1.Minimum;
+                    newValue = hScrollBarPan.Minimum;
                 }
 
-                if (newValue > hScrollBar1.Maximum)
+                if (newValue > hScrollBarPan.Maximum)
                 {
-                    newValue = hScrollBar1.Maximum;
+                    newValue = hScrollBarPan.Maximum;
                 }
 
-                hScrollBar1.Value = newValue;
+                hScrollBarPan.Value = newValue;
                 startMouseX = e.X;
 
-                pictureBox1.Invalidate();
+                this.pictureBox1.Invalidate();
             }
+        }
+
+        private void pictureBox1_MouseWheel(object sender, MouseEventArgs e)
+        {
+            if (e.Delta < 0)
+            {
+                visibleDaysCount += 10;
+            }
+            else
+            {
+                visibleDaysCount -= 10;
+            }
+
+            if (visibleDaysCount < 10)
+            {
+                visibleDaysCount = 10;
+            }
+
+            if (visibleDaysCount > 250)
+            {
+                visibleDaysCount = 250;
+            }
+
+            hScrollBarPan.Maximum = data.Count - visibleDaysCount;
+            this.pictureBox1.Invalidate();
         }
     }
 }
