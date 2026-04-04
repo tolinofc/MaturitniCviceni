@@ -15,11 +15,14 @@ namespace Graf.Forms
     {
         private List<GraphValue> data = new List<GraphValue>();
 
-        bool isDragging = false;
+        private GraphValue selectedValue;
+        private bool showValueInfo = false;
+
+        private bool isDragging = false;
         private int startMouseX;
         private float dateWidth;
 
-        private int visibleDaysCount = 250;
+        private int visibleDaysCount = 100;
         public GraphViewForm(List<GraphValue> data)
         {
             InitializeComponent();
@@ -82,6 +85,8 @@ namespace Graf.Forms
                 {
                     float x = i * dateWidth;
 
+                    g.DrawLine(Pens.LightGray, x, graphHeight, x, 0);
+
                     string dateText = visibleData[i].Date.ToString();
                     g.DrawString(dateText, labelFont, Brushes.Black, x, graphHeight + 30);
                 }
@@ -136,6 +141,30 @@ namespace Graf.Forms
             g.DrawLines(Pens.Blue, linePoints);
 
             #endregion
+
+            #region Info
+
+            if (selectedValue != null)
+            {
+                string info = $"""
+                Date: {selectedValue.Date}
+                Open: {selectedValue.Open}
+                High: {selectedValue.High}
+                Low: {selectedValue.Low}
+                Close: {selectedValue.Close}
+                Volume: {selectedValue.Volume}
+                """;
+
+                SizeF infoSize = g.MeasureString(info, labelFont);
+
+                using (SolidBrush infoBrush = new SolidBrush(Color.FromArgb(180, 255, 255, 255)))
+                {
+                    g.FillRectangle(infoBrush, 10, 10, infoSize.Width + 10f, infoSize.Height + 10f);
+                }
+                g.DrawString(info, labelFont, Brushes.Black, 15, 15);
+            }
+
+            #endregion
         }
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
@@ -154,6 +183,12 @@ namespace Graf.Forms
 
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
+            try
+            {
+                selectedValue = data[hScrollBarPan.Value + (int)Math.Floor(e.X / dateWidth)];
+            }
+            catch (ArgumentOutOfRangeException) { }
+
             if (isDragging)
             {
                 int deltaX = startMouseX - e.X;
@@ -171,9 +206,9 @@ namespace Graf.Forms
 
                 hScrollBarPan.Value = newValue;
                 startMouseX = e.X;
-
-                this.pictureBox1.Invalidate();
             }
+
+            this.pictureBox1.Invalidate();
         }
 
         private void pictureBox1_MouseWheel(object sender, MouseEventArgs e)
@@ -198,6 +233,11 @@ namespace Graf.Forms
             }
 
             hScrollBarPan.Maximum = data.Count - visibleDaysCount;
+            this.pictureBox1.Invalidate();
+        }
+
+        private void GraphViewForm_Resize(object sender, EventArgs e)
+        {
             this.pictureBox1.Invalidate();
         }
     }

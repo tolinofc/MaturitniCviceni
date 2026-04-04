@@ -63,10 +63,11 @@
             ClientSize = new Size(800, 450);
             Controls.Add(hScrollBarPan);
             Controls.Add(pictureBox1);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MinimumSize = new Size(300, 250);
             Name = "GraphViewForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Graf";
+            Resize += GraphViewForm_Resize;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
