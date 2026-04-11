@@ -11,7 +11,7 @@ export async function getCity(id) {
         id
     ])
 
-    return data
+    return data[0]
 }
 
 export async  function getPlacesByCity(cityId) {

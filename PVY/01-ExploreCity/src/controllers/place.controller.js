@@ -4,15 +4,27 @@ export async function getPlace(req, res) {
     const id = req.params.id
     const place = await placeService.getPlace(id)
 
+    if (!place) {
+        return res.status(404).json()
+    }
+
     res.json(place)
 }
 
-export async function getReviewsByPlace(req, res) {
+export async function getRatingsByPlace(req, res) {
     const id = req.params.id
-    const reviews = await placeService.getReviewsByPlace(id)
+    const ratings = await placeService.getRatingsByPlace(id)
 
-    res.json(reviews)
+    res.json(ratings)
 }
+
+export async function getCommentsByPlace(req, res) {
+    const id = req.params.id
+    const comments = await placeService.getCommentsByPlace(id)
+
+    res.json(comments)
+}
+
 
 export async function addPlace(req, res) {
     const newPlace = {

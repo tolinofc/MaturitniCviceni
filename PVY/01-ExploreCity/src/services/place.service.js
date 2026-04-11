@@ -5,11 +5,19 @@ export async function getPlace(id) {
         id
     ])
 
-    return data;
+    return data[0];
 }
 
-export async function getReviewsByPlace(id) {
-    const [data, metadata] = await pool.execute('SELECT p.name AS place_name, p.description AS place_description, p.address AS place_address, r.author as rating_author, r.added_date as rating_date, r.rating as rating_number, r.comment as rating_comment FROM review r INNER JOIN place p ON p.id = r.placeId WHERE p.id = ? order by added_date desc', [
+export async function getRatingsByPlace(id) {
+    const [data, metadata] = await pool.execute('SELECT  r.id, r.rating FROM rating r INNER JOIN place p ON p.id = r.placeId WHERE placeId = ?', [
+        id
+    ])
+
+    return data
+}
+
+export async function getCommentsByPlace(id) {
+    const [data, metadata] = await pool.execute('SELECT  p.id,     c.author AS rating_author,     c.added_date AS rating_date,     c.comment FROM     comment c INNER JOIN place p ON     p.id = c.placeId WHERE     p.id = ? ORDER BY     added_date DESC     ', [
         id
     ])
 
@@ -31,11 +39,11 @@ export async function addPlace(place) {
 }
 
 export async function getAverageRating(placeId) {
-    const [data, metadata] = await pool.execute('SELECT AVG(rating) AS average_rating, COUNT(id) AS review_count FROM review WHERE placeId = ?', [
+    const [data, metadata] = await pool.execute('SELECT AVG(rating) AS average_rating, COUNT(id) AS review_count FROM rating WHERE placeId = ?', [
         placeId
     ])
 
-    return data
+    return data[0]
 }
 
 export async function updatePlace(place) {
@@ -59,6 +67,14 @@ export async function updatePlace(place) {
 }
 
 export async function deletePlace(placeId) {
+    await pool.execute('DELETE FROM comment where placeId = ?', [
+        placeId
+    ])
+
+    await pool.execute('DELETE FROM rating where placeId = ?', [
+        placeId
+    ])
+
     await pool.execute('DELETE FROM place where id = ?', [
         placeId
     ])

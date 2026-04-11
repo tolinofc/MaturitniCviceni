@@ -7,14 +7,18 @@ export async function getCities(req, res) {
 }
 
 export async function getCity(req, res) {
-    const id = await req.params.id
+    const id = req.params.id
     const city = await cityService.getCity(id)
+
+    if (!city) {
+        return res.status(404).json()
+    }
 
     res.json(city)
 }
 
 export async function getPlacesByCity(req, res) {
-    const id = await req.params.id
+    const id = req.params.id
     const places = await cityService.getPlacesByCity(id)
 
     res.json(places)
