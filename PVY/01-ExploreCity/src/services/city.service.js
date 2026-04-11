@@ -15,7 +15,7 @@ export async function getCity(id) {
 }
 
 export async  function getPlacesByCity(cityId) {
-    const [data, metadata] = await pool.execute('SELECT c.name AS city_name, p.name AS place_name, p.description AS place_description, p.address AS place_address, t.name AS type_name FROM place p INNER JOIN city c ON c.id = p.cityId INNER JOIN type t ON t.id = p.typeId WHERE c.id = ? ORDER BY p.name ASC', [
+    const [data, metadata] = await pool.execute('SELECT p.id AS place_id, c.name AS city_name, p.name AS place_name, p.description AS place_description, p.address AS place_address, t.name AS type_name FROM place p INNER JOIN city c ON c.id = p.cityId INNER JOIN type t ON t.id = p.typeId WHERE c.id = ? ORDER BY p.name ASC', [
         cityId
     ])
 

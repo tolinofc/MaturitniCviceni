@@ -17,7 +17,7 @@ export async function getRatingsByPlace(id) {
 }
 
 export async function getCommentsByPlace(id) {
-    const [data, metadata] = await pool.execute('SELECT  p.id,     c.author AS rating_author,     c.added_date AS rating_date,     c.comment FROM     comment c INNER JOIN place p ON     p.id = c.placeId WHERE     p.id = ? ORDER BY     added_date DESC     ', [
+    const [data, metadata] = await pool.execute('SELECT  c.id,     c.author AS rating_author,     c.added_date AS rating_date,     c.comment FROM     comment c INNER JOIN place p ON     p.id = c.placeId WHERE     p.id = ? ORDER BY added_date DESC, c.id DESC     ', [
         id
     ])
 

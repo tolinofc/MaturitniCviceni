@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Document</title>
+    <title>ExploreCity</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,16 +18,62 @@
 
 <template id="city-template">
     <div class="city">
-        <img>
+        <img alt="Město">
         <p class="city-name"></p>
     </div>
 </template>
 
 <template id="place-template">
     <div class="place">
-        <img>
+        <img alt="Místo">
         <p class="place-name"></p>
         <p class="place-type"></p>
+    </div>
+</template>
+
+<template id="place-detail-template">
+    <section class="place-detail">
+        <div class="place-header">
+            <div class="place-name-wrapper">
+                <h1 class="place-title"></h1>
+                <div class="btn-edit">📝</div>
+                <div class="btn-delete">🗑</div>
+                <div class="btn-close">❌</div>
+            </div>
+            <div class="rating">
+            </div>
+        </div>
+        <div class="place-info">
+            <img alt="Detail místa">
+            <div>
+                <p class="place-description"></p>
+                <p class="place-address"></p>
+            </div>
+        </div>
+        <div class="comments"></div>
+
+        <div class="new-comment">
+            <h3>Nový komentář</h3>
+            <input type="text" placeholder="Jméno" class="input-name" required>
+            <input type="text" placeholder="Text komentáře" class="input-text" required>
+            <button class="btn-send">Odeslat</button>
+        </div>
+    </section>
+</template>
+
+<template id="comment-template">
+    <div class="comment">
+        <div class="comment-icon">🙍‍♂️</div>
+        <div>
+            <div class="comment-info">
+                <div class="person-info">
+                    <p class="person-name"></p>
+                    <p class="person-date"></p>
+                </div>
+                <div class="btn-delete-comment">❌</div>
+            </div>
+            <p class="comment-text"></p>
+        </div>
     </div>
 </template>
 
