@@ -32,7 +32,8 @@ export async function addPlace(req, res) {
         typeId: req.body.typeId,
         name: req.body.name,
         description: req.body.description,
-        address: req.body.address
+        address: req.body.address,
+        imagePath: req.body.imagePath
     }
 
     const placeId = await placeService.addPlace(newPlace)
@@ -44,12 +45,13 @@ export async function addPlace(req, res) {
 
 export async function updatePlace(req, res) {
     const newPlace = {
+        "id": req.params.id,
         "cityId": req.body.cityId,
         "typeId": req.body.typeId,
         "name": req.body.name,
         "description": req.body.description,
         "address": req.body.address,
-        "id": req.params.id
+        "imagePath": req.body.imagePath
     }
 
     await placeService.updatePlace(newPlace)

@@ -2,6 +2,7 @@ import express from 'express'
 import cityRoutes from './routes/city.route.js'
 import placeRoutes from './routes/place.route.js'
 import reviewRoutes from './routes/review.route.js'
+import typeRoutes from './routes/type.route.js'
 
 const app = express();
 
@@ -16,6 +17,7 @@ app.use((req, res, next) => {
 app.use('/city', cityRoutes)
 app.use('/place', placeRoutes)
 app.use('/review', reviewRoutes)
+app.use('/type', typeRoutes)
 
 app.use((req, res) => {
     res.status(404)

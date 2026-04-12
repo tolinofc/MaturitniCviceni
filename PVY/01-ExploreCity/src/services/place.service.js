@@ -1,7 +1,7 @@
 import {pool} from "../db.js";
 
 export async function getPlace(id) {
-    const [data, metadata] = await pool.execute('SELECT     p.name AS place_name,     p.description AS place_description,     p.address AS place_address,     c.name AS city_name,     t.name AS type_name FROM     place p INNER JOIN city c ON     c.id = p.cityId INNER JOIN type t ON     t.id = p.typeId WHERE     p.id = ?', [
+    const [data, metadata] = await pool.execute('SELECT     p.name AS place_name,     p.description AS place_description,     p.address AS place_address,     c.name AS city_name,     t.name AS type_name, t.id AS type_id, p.image_path as image_path FROM     place p INNER JOIN city c ON     c.id = p.cityId INNER JOIN type t ON     t.id = p.typeId WHERE     p.id = ?', [
         id
     ])
 
@@ -25,12 +25,13 @@ export async function getCommentsByPlace(id) {
 }
 
 export async function addPlace(place) {
-    const [result] = await pool.execute('INSERT INTO `place`(`id`, `cityId`, `typeId`, `name`, `description`, `address`) VALUES (default,?,?,?,?,?)', [
+    const [result] = await pool.execute('INSERT INTO `place`(`id`, `cityId`, `typeId`, `name`, `description`, `address`, `image_path`) VALUES (default,?,?,?,?,?,?)', [
         place.cityId,
         place.typeId,
         place.name,
         place.description,
-        place.address
+        place.address,
+        place.imagePath
     ])
 
     console.log('inserted place id: ' + result.insertId)
@@ -53,13 +54,16 @@ export async function updatePlace(place) {
                                              \`typeId\`      = ?,
                                              \`name\`        = ?,
                                              \`description\` = ?,
-                                             \`address\`     = ?
+                                             \`address\`     = ?,
+                                             \`image_path\` = ?
                                          WHERE id = ?`, [
+
         place.cityId,
         place.typeId,
         place.name,
         place.description,
         place.address,
+        place.imagePath,
         place.id
     ])
 

@@ -18,16 +18,20 @@
 
 <template id="city-template">
     <div class="city">
-        <img alt="Město">
+        <img>
         <p class="city-name"></p>
     </div>
 </template>
 
 <template id="place-template">
     <div class="place">
-        <img alt="Místo">
+        <img class="place-image-click">
         <p class="place-name"></p>
         <p class="place-type"></p>
+        <div class="place-actions">
+            <button class="btn-edit-place">Upravit</button>
+            <button class="btn-delete-place">Smazat</button>
+        </div>
     </div>
 </template>
 
@@ -36,15 +40,12 @@
         <div class="place-header">
             <div class="place-name-wrapper">
                 <h1 class="place-title"></h1>
-                <div class="btn-edit">📝</div>
-                <div class="btn-delete">🗑</div>
                 <div class="btn-close">❌</div>
             </div>
-            <div class="rating">
-            </div>
+            <div class="rating"></div>
         </div>
         <div class="place-info">
-            <img alt="Detail místa">
+            <img>
             <div>
                 <p class="place-description"></p>
                 <p class="place-address"></p>
@@ -73,6 +74,22 @@
                 <div class="btn-delete-comment">❌</div>
             </div>
             <p class="comment-text"></p>
+        </div>
+    </div>
+</template>
+
+<template id="place-form-template">
+    <div class="new-place-form">
+        <h3 class="form-title">Nové místo</h3>
+        <select class="input-type" required>
+        </select>
+        <input type="text" class="input-place-name" placeholder="Název" required>
+        <textarea class="input-desc" placeholder="Popis"></textarea>
+        <input type="text" class="input-address" placeholder="Adresa">
+        <input type="text" class="input-image" placeholder="Cesta k obrázku (image_path)">
+        <div class="form-actions">
+            <button class="btn-save">Uložit</button>
+            <button class="btn-cancel hidden">Zrušit</button>
         </div>
     </div>
 </template>
