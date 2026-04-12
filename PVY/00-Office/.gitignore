@@ -1,0 +1,23 @@
+*.tmp
+*.temp
+
+# --- Microsoft Word ---
+~$*.doc*
+~$*.dot*
+
+Backup of *.doc*
+Backup of *.docx*
+
+# --- Microsoft Excel ---
+
+~$*.xls*
+*.xlk
+
+*.xlsx.tmp
+*.xlsb.tmp
+
+# --- Microsoft Access ---
+*.laccdb
+*.ldb
+*.mam
+*.pma

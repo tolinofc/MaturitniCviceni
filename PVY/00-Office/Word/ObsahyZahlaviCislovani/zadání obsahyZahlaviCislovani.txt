@@ -1,0 +1,3 @@
+Dle vzoru vzor.pdf zpracujte v MS-Word dokument.
+Dùraz je kladen na práci s nadpisy, obsahem, záhlavím, zápatím a èíslováním stránek.
+Na konec dokumentu vložte seznam obrázkù uvedených v dokumentu.

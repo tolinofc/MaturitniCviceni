@@ -1,0 +1,32 @@
+Prodejci;Datum narozen°;Mÿsto;Ulice;PS¨;Telefon;Prodej
+Marie Lys†;6.5.1969;Karvin†;Horn° 26;73506;596349865;4568
+Simona õavov†;8.8.1988;Orlov†;Doln° 123;73401;596984532;-200
+Zuzana Vysok†;11.8.1963;Ostrava;N†draßn° 654;70000;603456779;45789
+Dana Epingerov†;14.10.1946;NovÏ Jiü°n;Starojick† 987;74101;777456789;10002
+Pavla Êimrav†;31.7.1945;Olomouc;V†vrovice 85;77500;604258147;-2356
+Dana Syslov†;21.5.1976;Brno;Bolkova 369;60500;603258369;11320
+Marian Roubal;27.11.1969;VyÁkov;Vojensk† 666;65000;777456123;46465
+Stanislav Stoklasa;17.2.1961;Opava;Univerzitn° 147;75100;737123456;20056
+Petr Panc°˝;16.12.1973;P˝erov;U Beüvy 565;76500;723852789;2003
+Filip Typlt;8.4.1961;Êumperk;Jesenick† 99;78100;704123456;-656
+Petr Tikal;8.6.1971;Karvin†;Horn° 26;73506;596124578;-1000
+Vladim°r Êipl;15.12.1959;Orlov†;Doln° 123;73401;596200896;15465
+Ji˝° Urban;18.1.1987;Ostrava;N†draßn° 654;70000;737111245;40200
+Karel Posp°Áek;21.12.1959;NovÏ Jiü°n;Starojick† 987;74101;702445778;50555
+Jan Hroch;21.8.1966;Olomouc;V†vrovice 85;77500;736558963;5656
+Dezider Chom†ü;21.11.1971;Brno;Bolkova 369;60500;704569874;50055
+V†clav Tom†Áek;10.8.1964;VyÁkov;Vojensk† 666;65000;777111258;78689
+Zdenÿk MÅller;19.11.1969;Opava;Univerzitn° 147;75100;603556887;4456
+Emil Rak;16.1.1961;P˝erov;U Beüvy 565;76500;777556889;50236
+Gustav Brom;1.10.1960;Êumperk;Jesenick† 99;78100;736123447;5550
+Otakar PÁenica;8.8.1966;Karvin†;Horn° 26;73506;596789456;58888
+Josef Hor†k;24.10.1962;Orlov†;Doln° 123;73401;596369258;8955
+Kvÿtoslav T†borskÏ;28.12.1945;Ostrava;N†draßn° 654;70000;596147425;40
+Ji˝° Klof†k;4.8.1944;NovÏ Jiü°n;Starojick† 987;74101;736223558;5699
+Josef Ploutev;3.12.1945;Olomouc;V†vrovice 85;77500;704125888;8000
+Zdenÿk Vos†hlo;20.9.1941;Brno;Bolkova 369;60500;777145236;5000
+Miroslav Kol°nskÏ;16.9.1952;VyÁkov;Vojensk† 666;65000;604778456;263
+¨estm°r ¸°zek;20.2.1941;Opava;Univerzitn° 147;75100;737445689;-5689
+V†clav LysÏ;23.5.1986;P˝erov;U Beüvy 565;76500;723556878;-788
+Jan Hudec;9.2.1955;Êumperk;Jesenick† 99;78100;723556897;4658
+;;;;;;

@@ -1,0 +1,931 @@
+Rok Hry Sport Disciplína Umístìní Tım/sportovec Zemì Vısledek
+2004	Atény	TAEKWONDO	do 57 kg eny	1	Èang Èi-won	Korea	
+2004	Atény	PLAVÁNÍ	200 metrù prsa - mui	1	Kitadima Kosuke	Japonsko	2:09,44
+2004	Atény	PLAVÁNÍ	100 metrù prsa - mui	1	Kitadima Kosuke	Japonsko	1:00,08
+2004	Atény	PLAVÁNÍ	200 metrù znak - mui	1	Peirsol Aaron	Spojené státy americké	1:54,95
+2004	Atény	PLAVÁNÍ	100 metrù znak - mui	1	Peirsol Aaron	Spojené státy americké	54,06
+2004	Atény	TAEKWONDO	do 49 kg eny	1	Èchen Š´hsin	Tchaj-wan	
+2004	Atény	PLAVÁNÍ	100 metrù motılek - mui	1	Phelps Michael	Spojené státy americké	51,25
+2004	Atény	PLAVÁNÍ	400 metrù polohovka - mui	1	Phelps Michael	Spojené státy americké	4:08,26
+2004	Atény	TAEKWONDO	nad 80 kg mui	1	Mun De-song	Korea	
+2004	Atény	PLAVÁNÍ	200 metrù polohovka - mui	1	Phelps Michael	Spojené státy americké	1:57,14OR
+2004	Atény	PLAVÁNÍ	200 metrù motılek - mui	1	Phelps Michael	Spojené státy americké	1:54,04
+2004	Atény	TAEKWONDO	do 49 kg eny	1	Š-hsin Èchen	Èína - Taipei	
+2004	Atény	TAEKWONDO	do 67 kg eny	1	Wej Lou	Èína	
+2004	Atény	PLAVÁNÍ	1500 metrù volnı zpùsob - mui	1	Hackett Grant	Austrálie	14:43,40
+2004	Atény	JACHTING	Europe - eny	1	Sundbyová Siren	Norsko	47,0
+2004	Atény	GYMNASTIKA	Bradla - eny	1	Lepennecová Emilie	Francie	9,687
+2004	Atény	JACHTING	Finn - mui	1	Ainslie Ben	Velká Británie	38,0
+2004	Atény	STOLNÍ TENIS	Dvouhra - mui	1	Rjo Sung-min	Korea	
+2004	Atény	TRIATLON	triatlon eny	1	Allenová Kate	Rakousko	2:04:43
+2004	Atény	JACHTING	Laser - MIX	1	Scheidt Robert	Brazílie	55,0
+2004	Atény	PLAVÁNÍ	50 metrù volnı zpùsob - mui	1	Hall Gary	Spojené státy americké	21,93
+2004	Atény	PLAVÁNÍ	400 metrù volnı zpùsob - mui	1	Thorpe Ian	Austrálie	3:43,10
+2004	Atény	PLAVÁNÍ	200 metrù volnı zpùsob - mui	1	Thorpe Ian	Austrálie	1:44,71
+2004	Atény	TAEKWONDO	nad 67 kg eny	1	Èung Èchen	Èína	
+2004	Atény	PLAVÁNÍ	100 metrù volnı zpùsob - mui	1	van den Hoogenband Pieter	Nizozemsko	48,17
+2004	Atény	PLAVÁNÍ	50 metrù volnı zpùsob - eny	1	de Bruijnová Inge	Nizozemsko	24,58
+2004	Atény	PLAVÁNÍ	200 metrù volnı zpùsob - eny	1	Potecová Camelia Alina	Rumunsko	1:58,03WR
+2004	Atény	PLAVÁNÍ	4 x 100 metrù polohovka - mui	1	USA	Spojené státy americké	3:30,68
+2004	Atény	PLAVÁNÍ	4 x 100 metrù volnı zpùsob - eny	1	AUS	Austrálie	3:35,94
+2004	Atény	PLAVÁNÍ	4 x 200 metrù volnı zpùsob - mui	1	USA	Spojené státy americké	7:07,33
+2004	Atény	PLAVÁNÍ	4 x 100 metrù volnı zpùsob - mui	1	RSA	Jihoafrická republika	3:13,17
+2004	Atény	MODERNÍ PÌTIBOJ	jednotlivkynì eny	1	Vörösová Zsuzsana	Maïarsko	5448
+2004	Atény	GYMNASTIKA	Trampolina jednotlivkyò	1	Dogonadzeová Anna	Nìmecko	39,60
+2004	Atény	PLAVÁNÍ	4 x 200 metrù volnı zpùsob - eny	1	USA	Spojené státy americké	7:53,42
+2004	Atény	JUDO	Do 66 kg [1980-1996 65 kg] - mui	1	Uèišiba Masato	Japonsko	
+2004	Atény	GYMNASTIKA	Trampolina jednotlivcù	1	Nikitin Jurij	Ukrajina	41,5
+2004	Atény	JUDO	Do 60 kg - mui	1	Nomura Tadahiro	Japonsko	
+2004	Atény	PLAVÁNÍ	4 x 100 metrù polohovka - eny	1	AUS	Austrálie	3:57,32
+2004	Atény	PLAVÁNÍ	400 metrù polohovka - eny	1	Kloèkovová Jana	Ukrajina	4:34,83
+2004	Atény	PLAVÁNÍ	200 metrù polohovka - eny	1	Kloèkovová Jana	Ukrajina	2:11,14
+2004	Atény	TAEKWONDO	do 80 kg mui	1	Lopez Steven	Spojené státy americké	
+2004	Atény	PLAVÁNÍ	200 metrù znak - eny	1	Coventryová Kirsty	Zimbabwe	2:09,19
+2004	Atény	PLAVÁNÍ	100 metrù znak - eny	1	Coughlinová Natalie	Spojené státy americké	1:00,37OR
+2004	Atény	PLAVÁNÍ	800 metrù volnı zpùsob - eny	1	Šibataová Ai	Japonsko	8:24,54
+2004	Atény	PLAVÁNÍ	400 metrù volnı zpùsob - eny	1	Manaudouová Laure	Francie	4:05,34
+2004	Atény	TAEKWONDO	do 68 kg mui	1	Bonehkohal Hádí	Írán	
+2004	Atény	PLAVÁNÍ	100 metrù prsa - eny	1	Süe-üan Luo	Èína	1:06,64
+2004	Atény	PLAVÁNÍ	200 metrù motılek - eny	1	Jedrzejczaková Otylia	Polsko	2:06,05
+2004	Atény	PLAVÁNÍ	100 metrù motılek - eny	1	Thomasová Petria	Austrálie	57,72WR
+2004	Atény	TAEKWONDO	do 58 kg mui	1	Jen-èchu Mu	Èína - Taipei	
+2004	Atény	PLAVÁNÍ	200 metrù prsa - eny	1	Beardová Amanda	Spojené státy americké	2:23,37
+2004	Atény	STOLNÍ TENIS	Dvouhra - eny	1	Èang I-ning	Èína	
+2004	Atény	TENIS	Dvouhra - eny	1	Heninová-Hardenneová Justine	Belgie	
+2004	Atény	STØELBA	Trap - mui	1	Alipov Alexej	Rusko	149
+2004	Atény	VZPÍRÁNÍ	do 53 kg eny	1	Polsaková Udomporn	Thajsko	222,5
+2004	Atény	STØELBA	Bìící terè - mui	1	Kurzer Manfred	Nìmecko	682,4
+2004	Atény	STØELBA	Vzduchová puška - mui	1	Èu Èchi-nan	Èína	702,7
+2004	Atény	VZPÍRÁNÍ	do 58 kg eny	1	Jen-èchin Èchen	Èína	237,5
+2004	Atény	STØELBA	Double trap - mui	1	Al Maktúm Ahmed	Spojené arabské emiráty	189
+2004	Atény	STØELBA	Skeet - mui	1	Benelli Andrea	Itálie	149
+2004	Atény	STØELBA	Maloráka 3x20 - eny	1	Galkinová Ljubov	Rusko	688,4
+2004	Atény	ATLETIKA	Tyè eny	1	Isinbajevová Jelena	Rusko	491
+2004	Atény	STØELBA	Vzduchová pistole - eny	1	Kostevyèová Olena	Ukrajina	483,3
+2004	Atény	VZPÍRÁNÍ	do 48 kg eny	1	Taylanová Nurcan	Turecko	210
+2004	Atény	STØELBA	Sportovní pistole - eny	1	Grozdìvová Maria	Bulharsko	688,2
+2004	Atény	STØELBA	Maloráka 3x40 - mui	1	ia Èan-po	Èína	1264,5
+2004	Atény	STØELBA	Maloráka vlee - mui	1	Emmons Matthew	Spojené státy americké	703,3
+2004	Atény	VESLOVÁNÍ	Ètyøky bez kormidelníka lehkıch vah - mui	1	Waern Dan	Dánsko	6:01,39
+2004	Atény	VZPÍRÁNÍ	do 69 kg eny	1	Èchun-chung Liou	Èína	275,0
+2004	Atény	VESLOVÁNÍ	Osmy s kormidelníkem - mui	1	USA	Spojené státy americké	5:42,48
+2004	Atény	VESLOVÁNÍ	Ètyøky bez kormidelníka - mui	1	GBR	Velká Británie	6:06,98
+2004	Atény	VZPÍRÁNÍ	do 75 kg eny	1	Thongsuková Pawina	Thajsko	272,5OR
+2004	Atény	VESLOVÁNÍ	Párové ètyøky - eny	1	GER	Nìmecko	6:29,29
+2004	Atény	VESLOVÁNÍ	Osmy s kormidelnicí - eny	1	ROM	Rumunsko	6:17,70
+2004	Atény	STØELBA	Vzduchová pistole - mui	1	Wang I-fu	Èína	690
+2004	Atény	VZPÍRÁNÍ	do 63 kg eny	1	Skakunová Natalja	Ukrajina	242,5
+2004	Atény	STØELBA	Libovolná pistole - mui	1	Nìstrujev Michail	Rusko	666,3
+2004	Atény	STØELBA	Rychlopalba z pistole - mui	1	Schumann Ralf	Nìmecko	694,9
+2004	Atény	STØELBA	Vzduchová puška - eny	1	Tu Li	Èína	502,0
+2004	Atény	STØELBA	Double trap - eny	1	Rhodeová Kimberly	Spojené státy americké	146
+2004	Atény	ATLETIKA	Trojskok - eny	1	Mbangová-Etoneová Françoise	Kamerun	15,30
+2004	Atény	ATLETIKA	Vrh koulí - eny	1	Cumbaová Jumileidi	Kuba	19,59
+2004	Atény	ATLETIKA	Skok dalekı - eny	1	Lebedìvová Tajana	Rusko	707
+2004	Atény	STØELBA	Trap eny	1	Baloghová Suzanne	Austrálie	88
+2004	Atény	ATLETIKA	Skok vysokı - eny	1	Slesarenková Jelena	Rusko	206
+2004	Atény	JACHTING	49er –MIX	1	Martinez - Fernandez	Španìlsko	67
+2004	Atény	ATLETIKA	Hod diskem - eny	1	Sadovová Natalja	Rusko	67,02
+2004	Atény	TENIS	Dvouhra - mui	1	Massu Nicolas	Chile	
+2004	Atény	ATLETIKA	Sedmiboj/pìtiboj - eny	1	Klüftová Carolina	Švédsko	6952
+2004	Atény	VODNÍ PÓLO	vodní pólo eny	1	ITA	Itálie	
+2004	Atény	ATLETIKA	Hod oštìpem - eny	1	Menéndezová Osleidys	Kuba	71,53
+2004	Atény	ATLETIKA	400 metrù pøekáky - eny	1	Chalkiáová Fani	Øecko	52,82
+2004	Atény	ATLETIKA	100 metrù pøekáky - eny	1	Hayesová Joanna	Spojené státy americké	12,37
+2004	Atény	ATLETIKA	400 metrù - eny	1	Williamsová-Darlingová Tonique	Bahamy	49,41
+2004	Atény	ATLETIKA	800 metrù - eny	1	Holmesová Kelly	Velká Británie	1:56,38
+2004	Atény	ATLETIKA	200 metrù - eny	1	Campbellová Veronica	Jamajka	22,05
+2004	Atény	ATLETIKA	Hod kladivem eny	1	Kuzenkovová Olga	Rusko	75,02
+2004	Atény	ATLETIKA	100 metrù- eny	1	Nìstìrenková Julia	Bìlorusko	10,93
+2004	Atény	ATLETIKA	1500 metrù - eny	1	Holmesová Kelly	Velká Británie	3:57,90
+2004	Atény	ATLETIKA	20 km chùze eny	1	Tsumelekaová Athanasia	Øecko	1:29:12
+2004	Atény	STØELBA	Skeet eny	1	Igalyová Diana	Maïarsko	97
+2004	Atény	ATLETIKA	Maratón - eny	1	Noguèiová Mizuki	Japonsko	2:26:20
+2004	Atény	ATLETIKA	10 000 metrù - eny	1	Chuej-na Sing	Èína	30:24,36
+2004	Atény	ATLETIKA	5000 metrù - eny	1	Defarová Meseret	Etiopie	14:45,65
+2004	Atény	SKOKY DO VODY	3 metry synchronizované - eny	1	Wu - Kuo	Èína	336,90
+2004	Atény	JUDO	Do 73 kg [1980-1996 71kg] - mui	1	Un-he I	Korea	
+2004	Atény	ŠERM	Šavle jednotlivci - mui	1	Montano Aldo	Itálie	
+2004	Atény	BADMINTON	Ètyøhry - mui	1	Kim - Ha	Korea	
+2004	Atény	BADMINTON	Dvouhry - eny	1	Èang Ning	Èína	
+2004	Atény	BADMINTON	Dvouhry - mui	1	Hidajat Taufik	Indonésie	
+2004	Atény	VZPÍRÁNÍ	Supertìká váha - mui	1	Rezazadeh Husejn	Írán	472,5
+2004	Atény	BADMINTON	Ètyøhry - eny	1	Èang - Jang	Èína	
+2004	Atény	ŠERM	Kord jednotlivci - mui	1	Fischer Marcel	Švıcarsko	
+2004	Atény	CYKLISTIKA	Pevnı kilometr - mui	1	Hoy Chris	Velká Británie	1:00,711
+2004	Atény	CYKLISTIKA	Stíhaèka jednotlivcù 4000 metrù - mui	1	Wiggins Bradley	Velká Británie	3:56,610
+2004	Atény	ŠERM	Fleret jednotlivci - mui	1	Guyart Brice	Francie	
+2004	Atény	CYKLISTIKA	Sprint 1000 metrù - mui	1	Bayley Ryan	Austrálie	
+2004	Atény	BADMINTON	Ètyøhry - MIX	1	Èang - Kao	Èína	
+2004	Atény	ŠERM	Fleret jednotlivkyò - eny	1	Vezzaliová Valentina	Itálie	
+2004	Atény	VZPÍRÁNÍ	Tìká váha (105 kg) - mui	1	Berestiv Dmitrij	Rusko	425,0
+2004	Atény	VZPÍRÁNÍ	Bantamová váha (56 kg) - mui	1	Mutlu Halil	Turecko	295,0 kg
+2004	Atény	ŠERM	Fleret drustev - mui	1	ITA	Itálie	
+2004	Atény	ATLETIKA	Desetiboj - mui	1	Šebrle Roman	Èeská republika	8893
+2004	Atény	LUKOSTØELBA	Jednotlivkynì - eny	1	Song-Hjon Pak	Korea	
+2004	Atény	ŠERM	Kord drustev - mui	1	FRA	Francie	
+2004	Atény	VZPÍRÁNÍ	Pérová váha (62kg) - mui	1	È´-jung Š´	Èína	325 kg
+2004	Atény	VZPÍRÁNÍ	Lehká váha (69 kg) - mui	1	Kuo-èeng Èchang	Èína	347,5 kg
+2004	Atény	VZPÍRÁNÍ	Polotìká váha (94 kg) - - mui	1	Dobrev Milen	Bulharsko	407,5 kg
+2004	Atény	VZPÍRÁNÍ	Lehká tìká váha (85 kg) - mui	1	Asanidze George	Gruzie	382,5 kg
+2004	Atény	ŠERM	Kord jednotlivkyò - eny	1	Nagyová Timea	Maïarsko	
+2004	Atény	VZPÍRÁNÍ	Støední váha (77 kg) - mui	1	Sagir Taner	Turecko	375 kg
+2004	Atény	GYMNASTIKA	Moderní gymnastika drustva - eny	1	RUS	Rusko	51,100
+2004	Atény	CYKLISTIKA	Bodovací závod - mui	1	Ignatìv Michail	Rusko	93
+2004	Atény	GYMNASTIKA	Prostná - eny	1	Ponorová Catalina	Rumunsko	9,750
+2004	Atény	GYMNASTIKA	Pøeskok - mui	1	Deferr Gervasio	Španìlsko	9,737
+2004	Atény	GYMNASTIKA	Bradla - mui	1	Gonèarov Valerij	Ukrajina	9,787
+2004	Atény	GYMNASTIKA	Hrazda - mui	1	Cassina Igor	Itálie	9,812
+2004	Atény	GYMNASTIKA	Moderní gymnastika jednotlivkyò - eny	1	Kabajevová Alina	Rusko	108,400
+2004	Atény	GYMNASTIKA	Kùò našíø - mui	1	Tcheng Chai-pin	Èína	9,837
+2004	Atény	GYMNASTIKA	Kruhy - mui	1	Tampakos Demosthenes	Øecko	9,862
+2004	Atény	GYMNASTIKA	Pøeskok - eny	1	Rosuová Monica	Rumunsko	9,656
+2004	Atény	GYMNASTIKA	Víceboj - eny	1	Pattersonová Carly	Spojené státy americké	38,387
+2004	Atény	GYMNASTIKA	Prostná - mui	1	Shewfelt Kyle	Kanada	9,787
+2004	Atény	GYMNASTIKA	Kladina - eny	1	Ponorová Catalina	Rumunsko	9,787
+2004	Atény	GYMNASTIKA	Víceboje - mui	1	Hamm Paul	Spojené státy americké	57,823
+2004	Atény	CYKLISTIKA	Stíhaèka drustev 4000 metrù	1	AUS	Austrálie	
+2004	Atény	CYKLISTIKA	Horská kola - mui	1	Absalon Julien	Francie	2:15:02
+2004	Atény	CYKLISTIKA	Sprint 1000 metrù - eny	1	Muenzerová Lori-Ann	Kanada	
+2004	Atény	GYMNASTIKA	Drustva - eny	1	ROM	Rumunsko	114,283
+2004	Atény	CYKLISTIKA	Silnièní závod - mui	1	Bettini Paolo	Itálie	5:41:44
+2004	Atény	CYKLISTIKA	Èasovka jednotlivcù - mui	1	Hamilton Tyler	Spojené státy americké	57:31
+2004	Atény	CYKLISTIKA	Stíhaèka jednotlivkyò 3000 metrù - eny	1	Ulmerová Sarah	Novı Zéland	3:24,537
+2004	Atény	CYKLISTIKA	Bodovací závod - eny	1	Sljusarevová Olga	Rusko	20
+2004	Atény	CYKLISTIKA	Horská kola - eny	1	Dahleová Gunn-Rita	Norsko	1:56:51
+2004	Atény	CYKLISTIKA	Silnièní závod - eny	1	Carriganová Sara	Austrálie	3:24:24
+2004	Atény	GYMNASTIKA	Drustva - mui	1	JPN	Japonsko	173,821
+2004	Atény	CYKLISTIKA	Èasovka jednotlivkyò - eny	1	Zijlaardová-van Moorselová Leontien	Nizozemsko	31:11
+2004	Atény	LUKOSTØELBA	Jednotlivci - mui	1	Galiazzo Marco	Itálie	
+2004	Atény	TENIS	Ètyøhry - eny	1	Li - Sun	Èína	
+2004	Atény	JUDO	Do 78 kg - eny	1	Annová Noriko	Japonsko	
+2004	Atény	PLAVÁNÍ	100 metrù volnı zpùsob - eny	1	Henryová Jodie	Austrálie	53,84
+2004	Atény	JUDO	Do 70 kg - eny	1	Uenoová Masae	Japonsko	
+2004	Atény	CYKLISTIKA	Keirin – mui	1	Bayley Ryan	Austrálie	
+2004	Atény	JUDO	Do 63 kg - eny	1	Tanimotová Ajumi	Japonsko	
+2004	Atény	JUDO	Nad 78 kg - eny	1	Cukadaová Maki	Japonsko	
+2004	Atény	ATLETIKA	4x400 metrù - eny	1	USA	Spojené státy americké	3:19,01
+2004	Atény	VODNÍ PÓLO	Vodní pólo - mui	1	HUN	Maïarsko	
+2004	Atény	SYNCHRONIZOVANÉ PLAVÁNÍ	Drustva - eny	1	RUS	Rusko	99,501
+2004	Atény	ATLETIKA	4x100 metrù - eny	1	JAM	Jamajka	41,73
+2004	Atény	MODERNÍ PÌTIBOJ	Jednotlivci - mui	1	Mojsejev Andrej	Rusko	5480
+2004	Atény	CYKLISTIKA	Olympijskı sprint - mui	1	GER	Nìmecko	
+2004	Atény	JUDO	Do 57 kg - eny	1	Bönischová Yvonne	Nìmecko	
+2004	Atény	SKOKY DO VODY	10 metrù synchronizované -eny	1	Li - Li	Èína	352,14
+2004	Atény	SKOKY DO VODY	10 metrù synchronizované - mui	1	Tchien - Jang	Èína	383,88
+2004	Atény	JUDO	Do 90 kg [1980-1996 86 kg] - mui	1	Zviadauri Zurab	Gruzie	
+2004	Atény	JUDO	Do 81 kg [1980-1996 78 kg]) - mui	1	Iliadis Ilias	Øecko	
+2004	Atény	SKOKY DO VODY	3 metry synchronizované - mui	1	Siranidis - Bimis	Øecko	353,34
+2004	Atény	JUDO	Do 100 kg [1980-1996 95 kg] - mui	1	Makarov Ihar	Bìlorusko	
+2004	Atény	ATLETIKA	100 metrù mui	1	Gatlin Justin	Spojené státy americké	9,85
+2004	Atény	CYKLISTIKA	500 metrù s pevnım startem - eny	1	Mearesová Anna	Austrálie	33,952
+2004	Atény	JUDO	Do 52 kg - eny	1	Tung-mej Sian	Èína	
+2004	Atény	JUDO	Do 48 kg - eny	1	Taniová Rjoko	Japonsko	
+2004	Atény	JUDO	Nad 100kg[1980-1996 nad 95kg] - mui	1	Suzuki Kejdi	Japonsko	
+2004	Atény	KANOISTIKA	K2 500 metrù - mui	1	Rauhe - Wieskoetter	Nìmecko	1:27,040
+2004	Atény	KANOISTIKA	K2 1000 metrù - mui	1	Oscarsson - Nilsson	Švédsko	3:18,420
+2004	Atény	ŠERM	Kord drustev - eny	1	RUS	Rusko	
+2004	Atény	JACHTING	470 - eny	1	Bekatoruová - Tsulfaová	Øecko	38,0
+2004	Atény	JACHTING	470 - mui	1	Foerster - Burnham	Spojené státy americké	71,0
+2004	Atény	VESLOVÁNÍ	Dvojskif lehkıch vah - eny	1	Alupejová - Burcicová	Rumunsko	6:56,05
+2004	Atény	ATLETIKA	4x100 metrù - mu	1	GBR	Velká Británie	38,07
+2004	Atény	JACHTING	Tornado - MIX	1	Hagara - Steinacher	Rakousko	34
+2004	Atény	JACHTING	Star - MIX	1	Ferreira - Grael	Brazílie	42
+2004	Atény	TENIS	Ètyøhry - mui	1	Gonzalez - Massu	Chile	
+2004	Atény	STOLNÍ TENIS	Ètyøhry - eny	1	Wang - Èang	Èína	
+2004	Atény	ŠERM	Šavle drustev - mui	1	FRA	Francie	
+2004	Atény	STOLNÍ TENIS	Ètyøhry - mui	1	Èchen - Ma	Èína	
+2004	Atény	VESLOVÁNÍ	Dvojky bez kormidelnice - eny	1	Damianová - Susanuová	Rumunsko	7:06,55
+2004	Atény	VESLOVÁNÍ	Dvojskif - eny	1	Eversová-Swindellová - Eversová-Swindell	Novı Zéland	7:01,79
+2004	Atény	KANOISTIKA	C2 slalom - mui	1	Hochschorner - Hochschorner	Slovensko	207,16
+2004	Atény	KANOISTIKA	K2 500 metrù - eny	1	Kovácsová - Janicsová	Maïarsko	1:38,101
+2004	Atény	LUKOSTØELBA	Drustva - eny	1	KOR	Korea	
+2004	Atény	KANOISTIKA	C2 1000 metrù - mui	1	Gille - Wylenzek	Nìmecko	3:41,802
+2004	Atény	KANOISTIKA	C2 500 metrù - mui	1	Meng - Jang	Èína	1:40,278
+2004	Atény	SYNCHRONIZOVANÉ PLAVÁNÍ	Dvojice - eny	1	Davydovová - Jermakovová	Rusko	99,334
+2004	Atény	LUKOSTØELBA	Drustva - mui	1	KOR	Korea	
+2004	Atény	ATLETIKA	4x400 metrù - mui	1	USA	Spojené státy americké	2:55,91
+2004	Atény	VESLOVÁNÍ	Dvojskif lehkıch vah - mui	1	Sycz - Kucharski	Polsko	6:20,93
+2004	Atény	VESLOVÁNÍ	Dvojky bez kormidelníka - mui	1	Ginn - Tomkins	Austrálie	6:30,76
+2004	Atény	VESLOVÁNÍ	Dvojskif - mui	1	Vieilledent - Hardy	Francie	6:29,00
+2004	Atény	VESLOVÁNÍ	Párová ètyøka - mui	1	RUS	Rusko	5:56,85
+2004	Atény	TRIATLON	triatlon mui	1	Carter Hamish	Novı Zéland	1:51:07
+2004	Atény	KANOISTIKA	C1 500 metrù - mui	1	Dittmer Andreas	Nìmecko	1:46,383
+2004	Atény	ZÁPAS	Volnı styl (66 kg) - mui	1	Tedìjev Elbrus	Ukrajina	
+2004	Atény	KANOISTIKA	C1 slalom - mui	1	Estanguet Tony	Francie	189,16
+2004	Atény	KANOISTIKA	C1 1000 metrù - mui	1	Cal David	Španìlsko	3:46,201
+2004	Atény	KANOISTIKA	K4 1000 metrù - mui	1	HUN	Maïarsko	2:56,919
+2004	Atény	KANOISTIKA	K1 slalom - eny	1	Kaliska Elena	Slovensko	210,03
+2004	Atény	KANOISTIKA	K1 500 metrù - eny	1	Janicsová Nataša	Maïarsko	1:47,741
+2004	Atény	ZÁPAS	Volnı styl (60 kg) - mui	1	Quintana Yandro	Kuba	
+2004	Atény	KANOISTIKA	K1 slalom - mui	1	Peschier Benoit	Francie	187,96
+2004	Atény	KANOISTIKA	K1 1000 metrù - mui	1	Larsen Eirik	Norsko	3:25,897
+2004	Atény	HÁZENÁ	Házená - mui	1	CRO	Chorvatsko	
+2004	Atény	PLÁOVİ VOLEJBAL	Pláovı volejbal - eny	1	Walshová - Mayová	Spojené státy americké	
+2004	Atény	PLÁOVİ VOLEJBAL	Pláovı volejbal - mui	1	Ricardo - Emanuel	Brazílie	
+2004	Atény	ZÁPAS	Volnı styl (84 kg) - mui	1	Sanderson Cael	Spojené státy americké	
+2004	Atény	HÁZENÁ	Házená - eny	1	DEN	Dánsko	
+2004	Atény	ZÁPAS	Volnı styl (74 kg) - mui	1	Sajtijev Buvajsa	Rusko	
+2004	Atény	POZEMNÍ HOKEJ	Pozemní hokej - eny	1	GER	Nìmecko	
+2004	Atény	POZEMNÍ HOKEJ	Pozemní hokej - mui	1	AUS	Austrálie	
+2004	Atény	KANOISTIKA	K4 500 metrù - eny	1	GER	Nìmecko	1:34,340
+2004	Atény	ZÁPAS	Volnı styl (55 kg) - mui	1	Batirov Mavlet	Rusko	
+2004	Atény	JEZDECTVÍ	Parkur drustva, Cena národù	1	GER	Nìmecko	8
+2004	Atény	JEZDECTVÍ	Soutì všestranné zpùsobilosti drustva	1	FRA	Francie	140,40
+2004	Atény	ZÁPAS	Øecko-øímskı (84 kg) - mui	1	Mišin Alexej	Rusko	
+2004	Atény	JEZDECTVÍ	Drezúra drustev	1	GER	Nìmecko	74,653
+2004	Atény	BOX	Papírová váha (48 kg) - mui	1	Bharthelemy Varela	Kuba	
+2004	Atény	BOX	Bantamová váha (54 kg) - mui	1	Rigondeaux Guillermo	Kuba	
+2004	Atény	BOX	Muší váha (51 kg) - mui	1	Gamboa Toledano	Kuba	
+2004	Atény	ZÁPAS	Øecko-øímskı (74 kg) - mui	1	Dokturišivili Alexandr	Uzbekistán	
+2004	Atény	JEZDECTVÍ	Drezúra jednotlivci	1	van Grunsvenová Anky	Nizozemsko	79,278
+2004	Atény	ZÁPAS	Øecko-øímskı (96 kg) - mui	1	Ibrahim Gaber	Egypt	
+2004	Atény	ZÁPAS	Øecko-øímskı (120 kg) - mui	1	Barojev Chasan	Rusko	
+2004	Atény	SKOKY DO VODY	Skoky z vìe 10 metrù - mui	1	Chu ia	Èína	748,08
+2004	Atény	SKOKY DO VODY	Skoky z prkna 3 metry - mui	1	Pcheng Po	Èína	787,38
+2004	Atény	SKOKY DO VODY	Skoky z prkna 3 metry - eny	1	Kuo ing-ing	Èína	633,15
+2004	Atény	SKOKY DO VODY	Skoky z vìe 10 metrù - eny	1	Newberyová Chantelle	Austrálie	590,30
+2004	Atény	JEZDECTVÍ	Parkur jednotlivci	1	O´Connor Cian	Irsko	4
+2004	Atény	JEZDECTVÍ	Soutì všestranné zpùsobilosti jednotlivci	1	Law Leslie	Velká Británie	44,40
+2004	Atény	VOLEJBAL	Volejbal - eny	1	CHN	Èína	
+2004	Atény	ZÁPAS	Volnı styl (96 kg) - mui	1	Gazalov Hadimut	Rusko	
+2004	Atény	ATLETIKA	400 metrù pøekáek mui	1	Sánchez Felix	Dominikánská republika	47,63
+2004	Atény	ATLETIKA	110 metrù pøekáek mui	1	Liou Siang	Èína	12,91
+2004	Atény	ATLETIKA	Maratón mui	1	Baldini Stefano	Itálie	2:10:55
+2004	Atény	ATLETIKA	3000 metrù pøekáek mui	1	Kemboi Ezekiel	Keòa	8:05,81
+2004	Atény	JACHTING	Mistral - mui	1	Fridman Gal	Izrael	42
+2004	Atény	ATLETIKA	Skok vysokı mui	1	Holm Stefan	Švédsko	236
+2004	Atény	ATLETIKA	50 km chùze mui	1	Korzeniowski Robert	Polsko	3:38:46
+2004	Atény	ATLETIKA	20 km chùze mui	1	Brugnetti Ivano	Itálie	1:19:40
+2004	Atény	JACHTING	Yngling	1	GBR	Velká Británie	49,0
+2004	Atény	ATLETIKA	10000 metrù mui	1	Bekele Kenenisa	Etiopie	27:05,10
+2004	Atény	ATLETIKA	800 metrù mui	1	Borzakovskij Jurij	Rusko	1:44,45
+2004	Atény	CYKLISTIKA	Bodovací závod dvojic - mui	1	Brown - O´Grady	Austrálie	22
+2004	Atény	ATLETIKA	400 metrù mui	1	Wariner Jeremy	Spojené státy americké	44,00
+2004	Atény	ATLETIKA	200 metrù mui	1	Crawford Shawn	Spojené státy americké	19,79
+2004	Atény	ATLETIKA	1500 metrù mui	1	El Guerrouj Hicham	Maroko	3:34,18
+2004	Atény	JACHTING	Mistral - eny	1	Merretová Faustine	Francie	31
+2004	Atény	ATLETIKA	5000 metrù mui	1	El Guerrouj Hicham	Maroko	13:14,39
+2004	Atény	ATLETIKA	Skok o tyèi mui	1	Mack Timothy	Spojené státy americké	595
+2004	Atény	ZÁPAS	Volnı styl (72 kg) - eny	1	Sü Wang	Èína	
+2004	Atény	ZÁPAS	Volnı styl (48 kg) - eny	1	Merleniová Irini	Ukrajina	
+2004	Atény	BASEBALL	Baseball - mui	1	CUB	Kuba	
+2004	Atény	BASKETBALL	Basketbal - eny	1	USA	Spojené státy americké	
+2004	Atény	FOTBAL	Fotbal - mui	1	ARG	Argentina	
+2004	Atény	FOTBAL	Fotbal - eny	1	USA	Spojené státy americké	
+2004	Atény	VOLEJBAL	Volejbal - mui	1	BRA	Brazílie	
+2004	Atény	ZÁPAS	Volnı styl (120 kg) - mui	1	Tajmazov Artur	Uzbekistán	
+2004	Atény	SOFTBALL	Softball - eny	1	USA	Spojené státy americké	
+2004	Atény	BASKETBALL	Basketbal - mui	1	ARG	Argentina	
+2004	Atény	ATLETIKA	Hod oštìpem mui	1	Thorkildsen Andreas	Norsko	86,50
+2004	Atény	ATLETIKA	Vrh koulí mui	1	Bìlonog Jurij	Ukrajina	21,16
+2004	Atény	ATLETIKA	Trojskok mui	1	Olsson Christian	Švédsko	17,79
+2004	Atény	ATLETIKA	Skok dalekı mui	1	Phillips Dwight	Spojené státy americké	859
+2004	Atény	ZÁPAS	Volnı styl (63 kg) - eny	1	Ièová Kaori	Japonsko	
+2004	Atény	ATLETIKA	Hod diskem mui	1	Alekna Virgilius	Litva	69,89
+2004	Atény	ZÁPAS	Volnı styl (55 kg) - eny	1	Jošidaová Saori	Japonsko	
+2004	Atény	ATLETIKA	Hod kladivem mui	1	Murofuši Kodi	Japonsko	82,91
+2004	Atény	ZÁPAS	Øecko-øímskı (66 kg) - mui	1	Mansurov Farid	Ázerbajdán	
+2004	Atény	KANOISTIKA	K1 500 metrù - mui	1	van Koeverden Adam	Kanada	1:37,919
+2004	Atény	ZÁPAS	Øecko-øímskı (55kg) - mui	1	Majoros István	Maïarsko	
+2004	Atény	BOX	Lehká støední váha (81 kg) - mui	1	Ward Andre	Spojené státy americké	
+2004	Atény	BOX	Lehkı welter (63.5 kg) - mui	1	Boonjumnong Manus	Thajsko	
+2004	Atény	VESLOVÁNÍ	Skif - eny	1	Rutschowová-Stomporowská Katrin	Nìmecko	7:18,12
+2004	Atény	BOX	Do 69 kilogramù	1	Artajev Bachtjar	Kazachstán	
+2004	Atény	VESLOVÁNÍ	Skif - mui	1	Tufte Olaf	Norsko	6:49,30
+2004	Atény	BOX	Støední váha (75 kg) - mui	1	Gajdarbekov Gajdarbek	Rusko	
+2004	Atény	ŠERM	Šavle jednotlivkyò - eny	1	Zagunisová Mariel	Spojené státy americké	
+2004	Atény	ZÁPAS	Øecko-øímskı (60 kg) - mui	1	Èi-hjon Èung	Korea	
+2004	Atény	BOX	Lehká váha (60 kg) - mui	1	Kindelan Mesa	Kuba	
+2004	Atény	BOX	Tìká váha (91 kg) - mui	1	Solis Fonte	Kuba	
+2004	Atény	VZPÍRÁNÍ	nad 75 kg eny	1	Kung-chung Tchang	Èína	305,0
+2004	Atény	BOX	Pérová váha (57 kg) - mui	1	Tišèenko Alexej	Rusko	
+2004	Atény	BOX	Supertìká váha (over 91 kg) - mui	1	Povetkin Alexandr	Rusko	
+2004	Atény	SOFTBALL	Softball - eny	2	AUS	Austrálie	
+2004	Atény	KANOISTIKA	K2 500 metrù - mui	2	Robinson - Baggaley	Austrálie	1:27,920
+2004	Atény	GYMNASTIKA	Drustva - eny	2	USA	Spojené státy americké	113,584
+2004	Atény	MODERNÍ PÌTIBOJ	Jednotlivci - mui	2	Zadnìprovskis Andreus	Litva	5428
+2004	Atény	CYKLISTIKA	Stíhaèka jednotlivkyò 3000 metrù - eny	2	Mactierová Katie	Austrálie	
+2004	Atény	SYNCHRONIZOVANÉ PLAVÁNÍ	Drustva - eny	2	JPN	Japonsko	98,501
+2004	Atény	VOLEJBAL	Volejbal - mui	2	ITA	Itálie	
+2004	Atény	KANOISTIKA	K2 1000 metrù - mui	2	Rossi - Bonomi	Itálie	3:19,484
+2004	Atény	ATLETIKA	4x100 metrù - eny	2	RUS	Rusko	42,27
+2004	Atény	STØELBA	Vzduchová puška - mui	2	Li ie	Èína	701,3
+2004	Atény	ATLETIKA	10000 metrù mui	2	Sihine Sileshi	Etiopie	27:09,39
+2004	Atény	VODNÍ PÓLO	Vodní pólo - mui	2	SCG	Srbsko a Èerná Hora	
+2004	Atény	KANOISTIKA	C2 500 metrù - mui	2	Rojas Blanco - Balceiro Pajon	Kuba	1:40,350
+2004	Atény	SYNCHRONIZOVANÉ PLAVÁNÍ	Dvojice - eny	2	Taèibanaová - Takedaová	Japonsko	98,417
+2004	Atény	CYKLISTIKA	Horská kola - mui	2	Hermida Jose Antonio	Španìlsko	-1:00
+2004	Atény	VZPÍRÁNÍ	do 69 kg eny	2	Krutzlerová Eszter	Maïarsko	262,5
+2004	Atény	STØELBA	Maloráka 3x40 - mui	2	Anti Michael	Spojené státy americké	1263,1
+2004	Atény	BASEBALL	Baseball - mui	2	AUS	Austrálie	
+2004	Atény	VESLOVÁNÍ	Dvojky bez kormidelníka - mui	2	Skelin - Skelin	Chorvatsko	6:32,64
+2004	Atény	ATLETIKA	Maratón mui	2	Keflezighi Mebrahtom	Spojené státy americké	2:11:29
+2004	Atény	VESLOVÁNÍ	Dvojskif - mui	2	Špik - Èop	Slovinsko	6:31,72
+2004	Atény	KANOISTIKA	K2 500 metrù - eny	2	Fischerová - Leonhardtová	Nìmecko	1:39,533
+2004	Atény	KANOISTIKA	C2 slalom - mui	2	Becker - Henze	Nìmecko	210,98
+2004	Atény	LUKOSTØELBA	Drustva - eny	2	CHN	Èína	
+2004	Atény	STØELBA	Bìící terè - mui	2	Blinov Alexandr	Rusko	678
+2004	Atény	ZÁPAS	Volnı styl (120 kg) - mui	2	Rezaé Alíréza	Írán	
+2004	Atény	FOTBAL	Fotbal - eny	2	BRA	Brazílie	
+2004	Atény	KANOISTIKA	C2 1000 metrù - mui	2	Kostogold - Kovaljov	Rusko	3:42,990
+2004	Atény	FOTBAL	Fotbal - mui	2	PAR	Paraguay	
+2004	Atény	LUKOSTØELBA	Drustva - mui	2	TPN	Èína - Taipei	
+2004	Atény	CYKLISTIKA	Sprint 1000 metrù - eny	2	Abassovová Tamilla	Rusko	
+2004	Atény	PLAVÁNÍ	100 metrù volnı zpùsob - eny	2	de Bruijnová Inge	Nizozemsko	54,16
+2004	Atény	SKOKY DO VODY	10 metrù synchronizované - mui	2	Taylor - Waterfield	Velká Británie	371,52
+2004	Atény	JUDO	Nad 100kg[1980-1996 nad 95kg] - mui	2	Tmenov Tamerlan	Rusko	
+2004	Atény	HÁZENÁ	Házená - eny	2	KOR	Korea	
+2004	Atény	ZÁPAS	Volnı styl (84 kg) - mui	2	Ui-je Mun	Korea	
+2004	Atény	JUDO	Do 48 kg - eny	2	Jossinetová Fréderique	Francie	
+2004	Atény	JUDO	Do 52 kg - eny	2	Jokosawová Juki	Japonsko	
+2004	Atény	CYKLISTIKA	500 metrù s pevnım startem - eny	2	Jung-chua iang	Èína	34,112
+2004	Atény	CYKLISTIKA	Èasovka jednotlivkyò - eny	2	Demetová-Barryová Deirdre	Spojené státy americké	-24
+2004	Atény	ŠERM	Šavle jednotlivkyò - eny	2	Süe Tchan	Èína	
+2004	Atény	ATLETIKA	5000 metrù mui	2	Bekele Kenenisa	Etiopie	13:14,59
+2004	Atény	CYKLISTIKA	Silnièní závod - eny	2	Arndtová Judith	Nìmecko	-7
+2004	Atény	SKOKY DO VODY	10 metrù synchronizované -eny	2	Gonèarovová - Koltunovová	Rusko	340,92
+2004	Atény	JUDO	Do 81 kg [1980-1996 78 kg]) - mui	2	Gonjuk Roman	Ukrajina	
+2004	Atény	POZEMNÍ HOKEJ	Pozemní hokej - mui	2	NED	Nizozemsko	
+2004	Atény	JUDO	Do 90 kg [1980-1996 86 kg] - mui	2	Izumi Hiroši	Japonsko	
+2004	Atény	JUDO	Do 100 kg [1980-1996 95 kg] - mui	2	Song-ho Èang	Korea	
+2004	Atény	STØELBA	Double trap - mui	2	Rathore Rádávárdán	Indie	179
+2004	Atény	VZPÍRÁNÍ	do 48 kg eny	2	Èuo Li	Èína	205
+2004	Atény	HÁZENÁ	Házená - mui	2	GER	Nìmecko	
+2004	Atény	CYKLISTIKA	Olympijskı sprint - mui	2	JPN	Japonsko	
+2004	Atény	JUDO	Do 78 kg - eny	2	Liou Sia	Èína	
+2004	Atény	STØELBA	Trap - mui	2	Pellielo Giovanni	Itálie	146
+2004	Atény	CYKLISTIKA	Bodovací závod - eny	2	Guerrerová Belem	Mexiko	14
+2004	Atény	VOLEJBAL	Volejbal - eny	2	RUS	Rusko	
+2004	Atény	ATLETIKA	4x400 metrù - mui	2	AUS	Austrálie	3:00,60
+2004	Atény	VESLOVÁNÍ	Osmy s kormidelníkem - mui	2	NED	Nizozemsko	5:43,75
+2004	Atény	JUDO	Nad 78 kg - eny	2	Beltranová Dayma	Kuba	
+2004	Atény	VZPÍRÁNÍ	do 53 kg eny	2	Rumbewasová Raema	Indonésie	210,0
+2004	Atény	ATLETIKA	1500 metrù - eny	2	Tomašovová Tajana	Rusko	3:58,12
+2004	Atény	JUDO	Do 70 kg - eny	2	Boschová Edith	Nizozemsko	
+2004	Atény	BOX	Lehká støední váha (81 kg) - mui	2	Aripgadjev Magomed	Bìlorusko	
+2004	Atény	PLÁOVİ VOLEJBAL	Pláovı volejbal - eny	2	Beharová - Sheldaová	Brazílie	
+2004	Atény	JUDO	Do 57 kg - eny	2	Sun-hui Kje	Korejská LDR	
+2004	Atény	JUDO	Do 63 kg - eny	2	Heillová Claudia	Rakousko	
+2004	Atény	CYKLISTIKA	Keirin – mui	2	Escuredo José	Francie	
+2004	Atény	PLÁOVİ VOLEJBAL	Pláovı volejbal - mui	2	Bosma - Herrera	Španìlsko	
+2004	Atény	ZÁPAS	Volnı styl (96 kg) - mui	2	Ibragimov Magomed	Uzbekistán	
+2004	Atény	ATLETIKA	4x400 metrù - eny	2	RUS	Rusko	3:20,16
+2004	Atény	VZPÍRÁNÍ	do 58 kg eny	2	Song-he I	Korejská LDR	232,5
+2004	Atény	ATLETIKA	400 metrù pøekáek mui	2	McFarlane Danny	Jamajka	48,11
+2004	Atény	ATLETIKA	Skok o tyèi mui	2	Stevenson Toby	Spojené státy americké	590
+2004	Atény	VZPÍRÁNÍ	Støední váha (77 kg) - mui	2	Filimonov Sergej	Kazachstán	372,5 kg
+2004	Atény	BOX	Supertìká váha (over 91 kg) - mui	2	Aly Mohamed	Egypt	
+2004	Atény	VZPÍRÁNÍ	Lehká tìká váha (85 kg) - mui	2	Rybakov Andrej	Bìlorusko	380 kg
+2004	Atény	ŠERM	Fleret jednotlivkyò - eny	2	Trilliniová Giovanna	Itálie	
+2004	Atény	VZPÍRÁNÍ	Polotìká váha (94 kg) - - mui	2	Akajev Chadimurad	Rusko	405 kg
+2004	Atény	ATLETIKA	Skok vysokı mui	2	Hemingway Matt	Spojené státy americké	234
+2004	Atény	STØELBA	Rychlopalba z pistole - mui	2	Poljakov Sergej	Rusko	692,7
+2004	Atény	ŠERM	Kord jednotlivkyò - eny	2	Flesselová-Colovicová Laura	Francie	
+2004	Atény	VESLOVÁNÍ	Ètyøky bez kormidelníka lehkıch vah - mui	2	AUS	Austrálie	6:02,79
+2004	Atény	VZPÍRÁNÍ	Bantamová váha (56 kg) - mui	2	Mej-in Wu	Èína	287,5 kg
+2004	Atény	ŠERM	Fleret drustev - mui	2	CHN	Èína	
+2004	Atény	ATLETIKA	Skok dalekı mui	2	Moffitt John	Spojené státy americké	847
+2004	Atény	ŠERM	Fleret jednotlivci - mui	2	Sanzo Salvatore	Itálie	
+2004	Atény	VZPÍRÁNÍ	Lehká váha (69 kg) - mui	2	Pe-Jong I	Korea	342,5 kg
+2004	Atény	VZPÍRÁNÍ	do 63 kg eny	2	Baciušková Hanna	Bìlorusko	242,5
+2004	Atény	VZPÍRÁNÍ	Pérová váha (62kg) - mui	2	Li Mao-šeng	Èína	312,5
+2004	Atény	ZÁPAS	Volnı styl (72 kg) - eny	2	Manjurovová Guzel	Rusko	
+2004	Atény	VZPÍRÁNÍ	Tìká váha (105 kg) - mui	2	Razoronov Igor	Ukrajina	420,0
+2004	Atény	ATLETIKA	20 km chùze mui	2	Fernandez Francisco Javier	Španìlsko	1:19:45
+2004	Atény	ŠERM	Kord jednotlivci - mui	2	Wang Lej	Èína	
+2004	Atény	BADMINTON	Ètyøhry - mui	2	I - Ju	Korea	
+2004	Atény	BADMINTON	Ètyøhry - eny	2	Chuang - Gao	Èína	
+2004	Atény	VESLOVÁNÍ	Párové ètyøky - eny	2	GBR	Velká Británie	6:31,26
+2004	Atény	CYKLISTIKA	Sprint 1000 metrù - mui	2	Bos Theo	Nizozemsko	
+2004	Atény	BADMINTON	Ètyøhry - MIX	2	Robertson - Emmsová	Velká Británie	
+2004	Atény	ATLETIKA	3000 metrù pøekáek mui	2	Kipruto Brimin	Keòa	8:06,11
+2004	Atény	JACHTING	Mistral - mui	2	Kaklamanakis Nikolaos	Øecko	52
+2004	Atény	VESLOVÁNÍ	Osmy s kormidelnicí - eny	2	USA	Spojené státy americké	6:19,56
+2004	Atény	VZPÍRÁNÍ	Supertìká váha - mui	2	Šèerbantis Viktors	Litva	455,0
+2004	Atény	CYKLISTIKA	Pevnı kilometr - mui	2	Tournant Arnaud	Francie	1:00,896
+2004	Atény	CYKLISTIKA	Stíhaèka jednotlivcù 4000 metrù - mui	2	McGee Brad	Austrálie	
+2004	Atény	VESLOVÁNÍ	Skif - mui	2	Jaanson Jüri	Estonsko	6:51,42
+2004	Atény	ATLETIKA	50 km chùze mui	2	Niegorodov Denis	Rusko	3:42:50
+2004	Atény	BADMINTON	Dvouhry - eny	2	Audinová Mia	Nizozemsko	
+2004	Atény	ŠERM	Šavle jednotlivci - mui	2	Nemczik Zsolt	Maïarsko	
+2004	Atény	BADMINTON	Dvouhry - mui	2	Son Sung-mo	Korea	
+2004	Atény	ATLETIKA	Desetiboj - mui	2	Clay Bryan	Spojené státy americké	8820
+2004	Atény	ATLETIKA	Trojskok mui	2	Oprea Marian	Rumunsko	17,55
+2004	Atény	ATLETIKA	Hod oštìpem mui	2	Vasilevskis Vadims	Litva	84,95
+2004	Atény	JACHTING	470 - mui	2	Glanfield - Rogers	Velká Británie	74,0
+2004	Atény	ATLETIKA	4x100 metrù - mu	2	USA	Spojené státy americké	38,08
+2004	Atény	BOX	Tìká váha (91 kg) - mui	2	Zujev Viktor	Bìlorusko	
+2004	Atény	JACHTING	Yngling	2	UKR	Ukrajina	50,0
+2004	Atény	JACHTING	Tornado - MIX	2	Lovell - Ogletree	Spojené státy americké	45
+2004	Atény	ŠERM	Kord drustev - eny	2	GER	Nìmecko	
+2004	Atény	JACHTING	470 - eny	2	Dufresneová - Azonová	Španìlsko	62,0
+2004	Atény	VESLOVÁNÍ	Dvojskif lehkıch vah - eny	2	Blasbergová - Reimerová	Nìmecko	6:57,33
+2004	Atény	CYKLISTIKA	Silnièní závod - mui	2	Paulinho Sergio	Portugalsko	-1
+2004	Atény	ZÁPAS	Volnı styl (74 kg) - mui	2	Llajev Gennadij	Kazachstán	
+2004	Atény	BASKETBALL	Basketbal - eny	2	AUS	Austrálie	
+2004	Atény	VESLOVÁNÍ	Dvojskif lehkıch vah - mui	2	Touron - Dufour	Francie	6:21,46
+2004	Atény	VESLOVÁNÍ	Dvojskif - eny	2	Oppeltová - Waleská	Nìmecko	7:02,78
+2004	Atény	GYMNASTIKA	Moderní gymnastika drustva - eny	2	ITA	Itálie	49,050
+2004	Atény	BASKETBALL	Basketbal - mui	2	ITA	Itálie	
+2004	Atény	VESLOVÁNÍ	Dvojky bez kormidelnice - eny	2	Graingerová - Bishopová	Velká Británie	7:08,66
+2004	Atény	STØELBA	Maloráka vlee - mui	2	Lusch Christian	Nìmecko	702,2
+2004	Atény	ZÁPAS	Volnı styl (55 kg) - eny	2	Verbeeková Tonja	Kanada	
+2004	Atény	STØELBA	Vzduchová pistole - mui	2	Nìstrujev Michail	Rusko	689,8
+2004	Atény	STØELBA	Libovolná pistole - mui	2	Èin Èong-o	Korea	661,5
+2004	Atény	CYKLISTIKA	Bodovací závod - mui	2	Llaneras Joan	Španìlsko	82
+2004	Atény	TENIS	Ètyøhry - eny	2	Martinezová - Ruanová-Pascualová	Španìlsko	
+2004	Atény	LUKOSTØELBA	Jednotlivci - mui	2	Jamamoto Hiroši	Japonsko	
+2004	Atény	ATLETIKA	Vrh koulí mui	2	Nelson Adam	Spojené státy americké	21,16
+2004	Atény	ATLETIKA	110 metrù pøekáek mui	2	Trammell Terrence	Spojené státy americké	13,18
+2004	Atény	LUKOSTØELBA	Jednotlivkynì - eny	2	Song-èin I	Korea	
+2004	Atény	ZÁPAS	Volnı styl (63 kg) - eny	2	McMannová Sara	Spojené státy americké	
+2004	Atény	BOX	Do 69 kilogramù	2	Aragon Armenteros Lorenzo	Kuba	
+2004	Atény	ŠERM	Kord drustev - mui	2	HUN	Maïarsko	
+2004	Atény	ATLETIKA	Hod kladivem mui	2	Tichon Ivan	Bìlorusko	79,81
+2004	Atény	JACHTING	Star - MIX	2	MacDonald - Wolfs	Kanada	51
+2004	Atény	CYKLISTIKA	Èasovka jednotlivcù - mui	2	Jekimov Vjaèeslav	Rusko	-18
+2004	Atény	STOLNÍ TENIS	Ètyøhry - mui	2	Kcho - Li	Hongkong	
+2004	Atény	ATLETIKA	Hod diskem mui	2	Kövagó Zoltán	Maïarsko	67,04
+2004	Atény	TENIS	Ètyøhry - mui	2	Kiefer - Schüttler	Nìmecko	
+2004	Atény	ŠERM	Šavle drustev - mui	2	ITA	Itálie	
+2004	Atény	STOLNÍ TENIS	Ètyøhry - eny	2	I - Sok	Korea	
+2004	Atény	ZÁPAS	Volnı styl (48 kg) - eny	2	Ièová Èiharu	Japonsko	
+2004	Atény	BOX	Støední váha (75 kg) - mui	2	Golovkin Gennadij	Kazachstán	
+2004	Atény	GYMNASTIKA	Kruhy - mui	2	Jovèev Jordan	Bulharsko	9,850
+2004	Atény	JACHTING	Laser - MIX	2	Geritzer Andreas	Rakousko	68,0
+2004	Atény	JEZDECTVÍ	Parkur jednotlivci	2	Pessoa Rodrigo	Brazílie	8
+2004	Atény	ATLETIKA	Hod kladivem eny	2	Morenová Yipsi	Kuba	73,36
+2004	Atény	PLAVÁNÍ	50 metrù volnı zpùsob - mui	2	Draganja Duje	Chorvatsko	21,94
+2004	Atény	JEZDECTVÍ	Soutì všestranné zpùsobilosti jednotlivci	2	Seversonová Kim	Spojené státy americké	45,20
+2004	Atény	ZÁPAS	Øecko-øímskı (96 kg) - mui	2	Nozadzi Ramaz	Gruzie	
+2004	Atény	TAEKWONDO	nad 67 kg eny	2	Baverelová Myriam	Francie	
+2004	Atény	JACHTING	Europe - eny	2	Šmídová Lenka	Èeská republika	
+2004	Atény	CYKLISTIKA	Bodovací závod dvojic - mui	2	Marvulli - Risi	Švıcarsko	15
+2004	Atény	ATLETIKA	200 metrù - eny	2	Felixová Allyson	Spojené státy americké	22,18
+2004	Atény	STOLNÍ TENIS	Dvouhra - eny	2	Kim Hjang-mi	Korejská LDR	
+2004	Atény	ZÁPAS	Øecko-øímskı (60 kg) - mui	2	Monzon Roberto	Kuba	
+2004	Atény	ATLETIKA	400 metrù mui	2	Harris Otis	Spojené státy americké	44,16
+2004	Atény	STOLNÍ TENIS	Dvouhra - mui	2	Wang Chao	Èína	
+2004	Atény	JACHTING	Finn - mui	2	Trujillo Rafael	Španìlsko	51,0
+2004	Atény	JEZDECTVÍ	Drezúra jednotlivci	2	Salzgeberová Ulla	Nìmecko	78,833
+2004	Atény	TRIATLON	triatlon mui	2	Docherty Bevan	Novı Zéland	-8
+2004	Atény	PLAVÁNÍ	100 metrù volnı zpùsob - mui	2	Schoeman Roland	Jihoafrická republika	48,23
+2004	Atény	PLAVÁNÍ	200 metrù volnı zpùsob - mui	2	van den Hoogenband Pieter	Nizozemsko	1:45,23
+2004	Atény	VESLOVÁNÍ	Ètyøky bez kormidelníka - mui	2	CAN	Kanada	6:07,06
+2004	Atény	PLAVÁNÍ	200 metrù znak - mui	2	Rogan Markus	Rakousko	1:57,35
+2004	Atény	TAEKWONDO	do 57 kg eny	2	Abdallahová Nia	Spojené státy americké	
+2004	Atény	GYMNASTIKA	Prostná - eny	2	Sofronieová Nicoleta	Rumunsko	9,562
+2004	Atény	PLAVÁNÍ	100 metrù prsa - mui	2	Hansen Brendan	Spojené státy americké	1:00,25
+2004	Atény	SKOKY DO VODY	Skoky z vìe 10 metrù - mui	2	Helm Mathew	Austrálie	730,56
+2004	Atény	PLAVÁNÍ	200 metrù prsa - mui	2	Gyurta Daniel	Maïarsko	2:10,80
+2004	Atény	VZPÍRÁNÍ	nad 75 kg eny	2	Mi-ran Èang	Korea	302,5
+2004	Atény	SKOKY DO VODY	Skoky z prkna 3 metry - eny	2	Wu Min-sia	Èína	612,00
+2004	Atény	GYMNASTIKA	Pøeskok - mui	2	Sapronìnko Jevgenij	Litva	9,706
+2004	Atény	SKOKY DO VODY	Skoky z vìe 10 metrù - eny	2	Lao Li-š´	Èína	576,30
+2004	Atény	PLAVÁNÍ	400 metrù volnı zpùsob - mui	2	Hackett Grant	Austrálie	3:43,36
+2004	Atény	BOX	Lehká váha (60 kg) - mui	2	Khan Amir	Velká Británie	
+2004	Atény	TAEKWONDO	do 67 kg eny	2	Mystakidunová Elisavet	Øecko	
+2004	Atény	ATLETIKA	100 metrù- eny	2	Williamsová Lauryn	Spojené státy americké	10,96
+2004	Atény	PLAVÁNÍ	100 metrù znak - mui	2	Rogan Markus	Austrálie	54,35
+2004	Atény	GYMNASTIKA	Kùò našíø - mui	2	Urzica Marius	Rumunsko	9,825
+2004	Atény	PLAVÁNÍ	1500 metrù volnı zpùsob - mui	2	Jensen Larsen	Spojené státy americké	14:45,29
+2004	Atény	TRIATLON	triatlon eny	2	Harropová Loretta	Austrálie	-6
+2004	Atény	TENIS	Dvouhra - eny	2	Mauresmová Amelie	Francie	
+2004	Atény	STØELBA	Trap eny	2	Quintanalová Maria	Španìlsko	84
+2004	Atény	ATLETIKA	400 metrù pøekáky - eny	2	Tirleaová-Manolacheová Ionela	Rumunsko	53,38
+2004	Atény	ATLETIKA	20 km chùze eny	2	Ivanovová Olimpiada	Rusko	1:29:16
+2004	Atény	BOX	Muší váha (51 kg) - mui	2	Thomas Jerome	Francie	
+2004	Atény	ATLETIKA	Skok vysokı - eny	2	Cloeteová Hestrie	Jihoafrická republika	202
+2004	Atény	ATLETIKA	Skok dalekı - eny	2	Simaginová Irina	Rusko	705
+2004	Atény	ATLETIKA	800 metrù - eny	2	Benhassiová Hasna	Maroko	1:56,43
+2004	Atény	ZÁPAS	Øecko-øímskı (74 kg) - mui	2	Yli-Hannuksela Marko	Finsko	
+2004	Atény	ATLETIKA	100 metrù pøekáky - eny	2	Krasovská Olena	Ukrajina	12,45
+2004	Atény	GYMNASTIKA	Bradla - eny	2	Humphreyová Terin	Spojené státy americké	9,662
+2004	Atény	ATLETIKA	100 metrù mui	2	Obikwelu Francis	Portugalsko	9,86
+2004	Atény	ATLETIKA	5000 metrù - eny	2	Ochichiová Isabella	Keòa	14:48,19
+2004	Atény	GYMNASTIKA	Pøeskok - eny	2	Hatchová Annia	Spojené státy americké	9,481
+2004	Atény	BOX	Bantamová váha (54 kg) - mui	2	Petchkoom Worapoj	Thajsko	
+2004	Atény	ATLETIKA	10 000 metrù - eny	2	Dibabaová Ejegayehu	Etiopie	30:24,98
+2004	Atény	ZÁPAS	Øecko-øímskı (66 kg) - mui	2	Eroglu Seref	Turecko	
+2004	Atény	ATLETIKA	Maratón - eny	2	Nderebaová Catherine	Keòa	2:26:32
+2004	Atény	STØELBA	Skeet eny	2	Wej Ning	Èína	93
+2004	Atény	GYMNASTIKA	Víceboj - eny	2	Chorkinová Svìtlana	Rusko	38,211
+2004	Atény	JACHTING	49er –MIX	2	Luka - Leonèuk	Ukrajina	72
+2004	Atény	ATLETIKA	Sedmiboj/pìtiboj - eny	2	Skujyteová Austra	Lotyšsko	6435
+2004	Atény	ATLETIKA	400 metrù - eny	2	Guevarová Ana	Mexiko	49,56
+2004	Atény	ZÁPAS	Øecko-øímskı (84 kg) - mui	2	Abrahamian Ara	Švédsko	
+2004	Atény	VZPÍRÁNÍ	do 75 kg eny	2	Zabolotná Natalja	Rusko	272,5
+2004	Atény	JEZDECTVÍ	Parkur drustva, Cena národù	2	USA	Spojené státy americké	20
+2004	Atény	JEZDECTVÍ	Soutì všestranné zpùsobilosti drustva	2	GBR	Velká Británie	143,00
+2004	Atény	GYMNASTIKA	Prostná - mui	2	Dragulescu Marian	Rumunsko	9,787
+2004	Atény	TENIS	Dvouhra - mui	2	Fish Mardy	Spojené státy americké	
+2004	Atény	ATLETIKA	Hod oštìpem - eny	2	Neriusová Steffi	Nìmecko	65,82
+2004	Atény	GYMNASTIKA	Kladina - eny	2	Pattersonová Carly	Spojené státy americké	9,775
+2004	Atény	BOX	Pérová váha (57 kg) - mui	2	Song-guk Kim	Korejská LDR	
+2004	Atény	ATLETIKA	Trojskok - eny	2	Devetzíová Chrysophi	Øecko	15,25
+2004	Atény	BOX	Papírová váha (48 kg) - mui	2	Yalcinkaya Atagün	Turecko	
+2004	Atény	ATLETIKA	Vrh koulí - eny	2	Kleinertová Nadine	Nìmecko	19,55
+2004	Atény	JEZDECTVÍ	Drezúra drustev	2	ESP	Španìlsko	72,917
+2004	Atény	VODNÍ PÓLO	vodní pólo eny	2	GRE	Øecko	
+2004	Atény	ATLETIKA	Hod diskem - eny	2	Kelesíduová Anastasía	Øecko	66,68
+2004	Atény	PLAVÁNÍ	100 metrù motılek - mui	2	Crocker Ian	Spojené státy americké	51,29
+2004	Atény	STØELBA	Double trap - eny	2	I Pcho-na	Korea	145
+2004	Atény	KANOISTIKA	C1 slalom - mui	2	Martikan Michal	Slovensko	189,28
+2004	Atény	PLAVÁNÍ	4 x 100 metrù volnı zpùsob - mui	2	NED	Nizozemsko	3:14,36
+2004	Atény	GYMNASTIKA	Moderní gymnastika jednotlivkyò - eny	2	Èaèinová Irina	Rusko	107,325
+2004	Atény	CYKLISTIKA	Stíhaèka drustev 4000 metrù	2	GBR	Velká Británie	
+2004	Atény	PLAVÁNÍ	4 x 200 metrù volnı zpùsob - mui	2	AUS	Austrálie	7:07,46
+2004	Atény	GYMNASTIKA	Trampolina jednotlivkyò	2	Cockburnová Karen	Kanada	39,20
+2004	Atény	PLAVÁNÍ	4 x 100 metrù polohovka - mui	2	GER	Nìmecko	3:33,62
+2004	Atény	ZÁPAS	Volnı styl (66 kg) - mui	2	Kelly Jamill	Spojené státy americké	
+2004	Atény	MODERNÍ PÌTIBOJ	jednotlivkynì eny	2	Rublevská Jelena	Lotyšsko	5380
+2004	Atény	PLAVÁNÍ	400 metrù polohovka - eny	2	Sandenová Kaitlin	Spojené státy americké	4:34,95
+2004	Atény	ZÁPAS	Øecko-øímskı (120 kg) - mui	2	Curcumia Georgij	Kazachstán	
+2004	Atény	KANOISTIKA	C1 1000 metrù - mui	2	Dittmer Andreas	Nìmecko	3:46,721
+2004	Atény	ATLETIKA	200 metrù mui	2	Williams Bernard	Spojené státy americké	20,01
+2004	Atény	PLAVÁNÍ	200 metrù motılek - eny	2	Thomasová Petria	Austrálie	2:06,36
+2004	Atény	KANOISTIKA	C1 500 metrù - mui	2	Cal David	Španìlsko	1:46,723
+2004	Atény	GYMNASTIKA	Víceboje - mui	2	Kim De-un	Korea	57,811
+2004	Atény	PLAVÁNÍ	200 metrù polohovka - eny	2	Beardová Amanda	Spojené státy americké	2:11,70
+2004	Atény	TAEKWONDO	do 58 kg mui	2	Salazar Francisco	Mexiko	
+2004	Atény	PLAVÁNÍ	4 x 100 metrù volnı zpùsob - eny	2	USA	Spojené státy americké	3:36,39
+2004	Atény	KANOISTIKA	K1 slalom - mui	2	Walsh Campbell	Velká Británie	190,17
+2004	Atény	SKOKY DO VODY	3 metry synchronizované - eny	2	Iljinová - Pachalinová	Rusko	330,84
+2004	Atény	JUDO	Do 66 kg [1980-1996 65 kg] - mui	2	Krnáè Jozef	Slovensko	
+2004	Atény	KANOISTIKA	K1 500 metrù - mui	2	Baggaley Nathan	Austrálie	1:38,467
+2004	Atény	VESLOVÁNÍ	Párová ètyøka - mui	2	CZE	Èeská republika	5:57,43
+2004	Atény	GYMNASTIKA	Drustva - mui	2	USA	Spojené státy americké	172,933
+2004	Atény	SKOKY DO VODY	3 metry synchronizované - mui	2	Wels - Schellenberg	Øecko	350,01
+2004	Atény	JUDO	Do 73 kg [1980-1996 71kg] - mui	2	Makarov Vitalij	Rusko	
+2004	Atény	POZEMNÍ HOKEJ	Pozemní hokej - eny	2	NED	Nizozemsko	
+2004	Atény	JACHTING	Mistral - eny	2	ian Jin	Èína	33
+2004	Atény	STØELBA	Skeet - mui	2	Kemppainen Marko	Finsko	149
+2004	Atény	PLAVÁNÍ	4 x 200 metrù volnı zpùsob - eny	2	CHN	Èína	7:55,97
+2004	Atény	ATLETIKA	1500 metrù mui	2	Lagat Bernard	Keòa	3:34,30
+2004	Atény	STØELBA	Sportovní pistole - eny	2	Hyková Lenka	Èeská republika	
+2004	Atény	PLAVÁNÍ	4 x 100 metrù polohovka - eny	2	USA	Spojené státy americké	3:59,12
+2004	Atény	KANOISTIKA	K1 1000 metrù - mui	2	Fouhy Ben	Novı Zéland	3:27,413
+2004	Atény	JUDO	Do 60 kg - mui	2	Chergiani Nestor	Gruzie	
+2004	Atény	CYKLISTIKA	Horská kola - eny	2	Premontová Marie-Heléne	Kanada	-59
+2004	Atény	GYMNASTIKA	Trampolina jednotlivcù	2	Moskalenko Aleksandr	Rusko	41,2
+2004	Atény	STØELBA	Vzduchová pistole - eny	2	Sekarièová Jasna	Srbsko a Èerná Hora	483,3
+2004	Atény	PLAVÁNÍ	100 metrù motılek - eny	2	Jedrzejczaková Otylia	Polsko	57,84
+2004	Atény	PLAVÁNÍ	200 metrù prsa - eny	2	Jonesová Leisel	Austrálie	2:23,60
+2004	Atény	PLAVÁNÍ	400 metrù volnı zpùsob - eny	2	Jedrzejczaková Otylia	Polsko	4:05,84
+2004	Atény	PLAVÁNÍ	200 metrù polohovka - mui	2	Lochte Ryan	Spojené státy americké	1:58,78
+2004	Atény	STØELBA	Vzduchová puška - eny	2	Galkinová Ljubov	Rusko	501,5
+2004	Atény	GYMNASTIKA	Bradla - mui	2	Tomita Hirojuki	Japonsko	9,775
+2004	Atény	ATLETIKA	Tyè eny	2	Feofanovová Svìtlana	Rusko	475
+2004	Atény	ATLETIKA	800 metrù mui	2	Mulaudzi Mbulaeni	Jihoafrická republika	1:44,61
+2004	Atény	TAEKWONDO	do 49 kg eny	2	Labradaová-Diazová Yanelis	Kuba	
+2004	Atény	PLAVÁNÍ	200 metrù volnı zpùsob - eny	2	Pellegriniová Federica	Itálie	1:58,22
+2004	Atény	PLAVÁNÍ	50 metrù volnı zpùsob - eny	2	Metellaová Malia	Francie	24,89
+2004	Atény	ZÁPAS	Volnı styl (55 kg) - mui	2	Abas Stephen	Spojené státy americké	
+2004	Atény	KANOISTIKA	K4 500 metrù - eny	2	HUN	Maïarsko	1:34,536
+2004	Atény	TAEKWONDO	nad 80 kg mui	2	Nikolaidis Alexandros	Øecko	
+2004	Atény	PLAVÁNÍ	400 metrù polohovka - mui	2	Vendt Erik	Spojené státy americké	4:11,81
+2004	Atény	KANOISTIKA	K1 slalom - eny	2	Giddensová Rebecca	Spojené státy americké	214,62
+2004	Atény	TAEKWONDO	do 80 kg mui	2	Tanrikulu Bahri	Turecko	
+2004	Atény	PLAVÁNÍ	200 metrù motılek - mui	2	Jamamoto Takaši	Japonsko	1:54,56
+2004	Atény	PLAVÁNÍ	200 metrù znak - eny	2	Komarovová Stanislava	Rusko	2:09,72
+2004	Atény	ZÁPAS	Øecko-øímskı (55kg) - mui	2	Mamedaljev Gejdar	Rusko	
+2004	Atény	BOX	Lehkı welter (63.5 kg) - mui	2	Johnson Cedeno Yudel	Kuba	
+2004	Atény	GYMNASTIKA	Hrazda - mui	2	Hamm Paul	Spojené státy americké	9,812
+2004	Atény	KANOISTIKA	K4 1000 metrù - mui	2	GER	Nìmecko	2:58,659
+2004	Atény	ZÁPAS	Volnı styl (60 kg) - mui	2	Dokar Masúd	Írán	
+2004	Atény	PLAVÁNÍ	100 metrù prsa - eny	2	Hansonová Brooke	Austrálie	1:07,15
+2004	Atény	TAEKWONDO	do 68 kg mui	2	Chuang Èch´-hsjung	Tchaj-wan	
+2004	Atény	STØELBA	Maloráka 3x20 - eny	2	Turisiniová Valentina	Itálie	685,9
+2004	Atény	VESLOVÁNÍ	Skif - eny	2	Karstenová Jekatìrina	Bìlorusko	7:22,04
+2004	Atény	SKOKY DO VODY	Skoky z prkna 3 metry - mui	2	Despatie Alexandre	Kanada	755,97
+2004	Atény	KANOISTIKA	K1 500 metrù - eny	2	Idemová Josefa	Itálie	1:49,729
+2004	Atény	PLAVÁNÍ	100 metrù znak - eny	2	Coventryová Kirsty	Zimbabwe	1:00,50
+2004	Atény	PLAVÁNÍ	800 metrù volnı zpùsob - eny	2	Manaudouová Laure	Francie	8:24,96
+2004	Atény	ŠERM	Fleret jednotlivci - mui	3	Cassara Andrea	Itálie	
+2004	Atény	GYMNASTIKA	Bradla - eny	3	Kupetsová Courtney	Spojené státy americké	9,637
+2004	Atény	GYMNASTIKA	Kladina - eny	3	Eremiaová Alexandra	Rumunsko	9,700
+2004	Atény	CYKLISTIKA	Bodovací závod dvojic - mui	3	Hayles - Wiggins	Velká Británie	12
+2004	Atény	GYMNASTIKA	Drustva - mui	3	ROM	Rumunsko	172,384
+2004	Atény	JACHTING	Yngling	3	Waern Dan	Dánsko	54,0
+2004	Atény	GYMNASTIKA	Prostná - eny	3	Morenová Patricia	Španìlsko	9,487
+2004	Atény	VZPÍRÁNÍ	do 69 kg eny	3	Kasajevová Zarema	Rusko	262,5
+2004	Atény	GYMNASTIKA	Moderní gymnastika drustva - eny	3	BUL	Bulharsko	48,600
+2004	Atény	VZPÍRÁNÍ	do 75 kg eny	3	Popovová Valentina	Rusko	262,5
+2004	Atény	GYMNASTIKA	Drustva - eny	3	RUS	Rusko	113,235
+2004	Atény	GYMNASTIKA	Moderní gymnastika jednotlivkyò - eny	3	Bessonovová Anna	Ukrajina	106,700
+2004	Atény	JACHTING	Mistral - eny	3	Sensiniová Alessandra	Itálie	34
+2004	Atény	JACHTING	Mistral - mui	3	Dempsey Nick	Velká Británie	53
+2004	Atény	CYKLISTIKA	Keirin – mui	3	Kelly Shane	Austrálie	
+2004	Atény	ZÁPAS	Volnı styl (55 kg) - mui	3	Tanabe Èikara	Japonsko	
+2004	Atény	TAEKWONDO	do 68 kg mui	3	Song Mjong-Sob	Korea	
+2004	Atény	ATLETIKA	Tyè eny	3	Rogowská Anna	Polsko	470
+2004	Atény	TAEKWONDO	do 80 kg mui	3	Karami Josef	Írán	
+2004	Atény	TAEKWONDO	nad 80 kg mui	3	Gentil Pascal	Francie	
+2004	Atény	ATLETIKA	Hod kladivem eny	3	Crawfordová Yunaika	Kuba	73,16
+2004	Atény	TAEKWONDO	do 49 kg eny	3	Boorapolchaiová Yaowapa	Thajsko	
+2004	Atény	TAEKWONDO	do 58 kg mui	3	Bajúmí Tamer	Egypt	
+2004	Atény	MODERNÍ PÌTIBOJ	jednotlivkynì eny	3	Harlandová Georgina	Velká Británie	5344
+2004	Atény	GYMNASTIKA	Trampolina jednotlivcù	3	Stehlik Henrik	Nìmecko	40,8
+2004	Atény	VZPÍRÁNÍ	do 48 kg eny	3	Wiratthawornová Aree	Thajsko	200
+2004	Atény	ZÁPAS	Volnı styl (66 kg) - mui	3	Murtazaljev Machaè	Rusko	
+2004	Atény	GYMNASTIKA	Trampolina jednotlivkyò	3	Šan-šan Chuang	Èína	39,00
+2004	Atény	ZÁPAS	Volnı styl (60 kg) - mui	3	Inoue Kandi	Japonsko	
+2004	Atény	ŠERM	Šavle jednotlivkyò - eny	3	Jacobsonová Sada	Spojené státy americké	
+2004	Atény	ZÁPAS	Øecko-øímskı (55kg) - mui	3	Kiuregkian Artiom	Øecko	
+2004	Atény	TAEKWONDO	do 57 kg eny	3	Salazarová-Blancová Iridia	Mexiko	
+2004	Atény	JACHTING	49er –MIX	3	Draper - Hiscocks	Velká Británie	77
+2004	Atény	ATLETIKA	20 km chùze eny	3	Savilleová Jane	Austrálie	1:29:25
+2004	Atény	ZÁPAS	Øecko-øímskı (74 kg) - mui	3	Samurgaèev Varteres	Rusko	
+2004	Atény	STØELBA	Trap eny	3	I Pcho-na	Korea	83
+2004	Atény	ZÁPAS	Øecko-øímskı (66 kg) - mui	3	Manukjan Mchitar	Kazachstán	
+2004	Atény	ZÁPAS	Øecko-øímskı (60 kg) - mui	3	Nazarjan Armen	Bulharsko	
+2004	Atény	STØELBA	Skeet eny	3	Mechtachetdinová Zemfira	Ázerbajdán	93
+2004	Atény	VODNÍ PÓLO	vodní pólo eny	3	USA	Spojené státy americké	
+2004	Atény	TRIATLON	triatlon eny	3	Williamsová Susan	Spojené státy americké	-25
+2004	Atény	ZÁPAS	Øecko-øímskı (96 kg) - mui	3	Özal Mehmet	Turecko	
+2004	Atény	ZÁPAS	Øecko-øímskı (120 kg) - mui	3	Gardner Rulon	Spojené státy americké	
+2004	Atény	TAEKWONDO	do 67 kg eny	3	Kjong-sun Hwang	Korea	
+2004	Atény	TAEKWONDO	nad 67 kg eny	3	Carmonaová Adriana	Venezuela	
+2004	Atény	ZÁPAS	Øecko-øímskı (84 kg) - mui	3	Makaranka Vjaèeslav	Bìlorusko	
+2004	Atény	TRIATLON	triatlon mui	3	Riederer Sven	Švıcarsko	-25
+2004	Atény	SKOKY DO VODY	3 metry synchronizované - eny	3	Lašková - Newberyová	Austrálie	309,30
+2004	Atény	SKOKY DO VODY	3 metry synchronizované - mui	3	Newbery - Barnett	Austrálie	349,59
+2004	Atény	ŠERM	Šavle drustev - mui	3	RUS	Rusko	
+2004	Atény	ZÁPAS	Volnı styl (55 kg) - eny	3	Gomisová Anna	Francie	
+2004	Atény	ŠERM	Kord drustev - mui	3	GER	Nìmecko	
+2004	Atény	ŠERM	Kord drustev - eny	3	FRA	Francie	
+2004	Atény	VZPÍRÁNÍ	do 58 kg eny	3	Kameaimová Wandee	Thajsko	230,0
+2004	Atény	ATLETIKA	4x100 metrù - mu	3	NGR	Nigérie	38,23
+2004	Atény	ZÁPAS	Volnı styl (48 kg) - eny	3	Mirandaová Patricia	Spojené státy americké	
+2004	Atény	ŠERM	Fleret drustev - mui	3	RUS	Rusko	
+2004	Atény	ZÁPAS	Volnı styl (63 kg) - eny	3	Legrandová Lise	Francie	
+2004	Atény	ŠERM	Šavle jednotlivci - mui	3	Trejak Vladislav	Ukrajina	
+2004	Atény	VZPÍRÁNÍ	nad 75 kg eny	3	Wrobelová Agata	Polsko	290,0
+2004	Atény	ZÁPAS	Volnı styl (72 kg) - eny	3	Hamaguèiová Kjoko	Japonsko	
+2004	Atény	VZPÍRÁNÍ	do 63 kg eny	3	Stukalavová Tatjana	Bìlorusko	222,5
+2004	Atény	ŠERM	Kord jednotlivkyò - eny	3	Nisimaová Maureen	Francie	
+2004	Atény	ŠERM	Fleret jednotlivkyò - eny	3	Gruchalaová Sylwia	Polsko	
+2004	Atény	ATLETIKA	4x400 metrù - mui	3	NGR	Nigérie	3:00,90
+2004	Atény	ZÁPAS	Volnı styl (120 kg) - mui	3	Polatci Aydin	Turecko	
+2004	Atény	ZÁPAS	Volnı styl (84 kg) - mui	3	Saidov Said	Rusko	
+2004	Atény	CYKLISTIKA	Olympijskı sprint - mui	3	FRA	Francie	
+2004	Atény	PLAVÁNÍ	100 metrù volnı zpùsob - eny	3	Coughlinová Natalie	Spojené státy americké	54,40
+2004	Atény	CYKLISTIKA	500 metrù s pevnım startem - eny	3	Cylinská Natalja	Bìlorusko	34,167
+2004	Atény	SKOKY DO VODY	10 metrù synchronizované - mui	3	Helm - Newbery	Austrálie	366,84
+2004	Atény	SKOKY DO VODY	10 metrù synchronizované -eny	3	Hartleyová - Heymansová	Kanada	327,78
+2004	Atény	ZÁPAS	Volnı styl (74 kg) - mui	3	Fundora Ivan	Kuba	
+2004	Atény	ATLETIKA	4x400 metrù - eny	3	JAM	Jamajka	3:22,00
+2004	Atény	ZÁPAS	Volnı styl (96 kg) - mui	3	Hejdarí Alízéra	Írán	
+2004	Atény	VZPÍRÁNÍ	do 53 kg eny	3	Mosqueraová Mabel	Kolumbie	197,5
+2004	Atény	LUKOSTØELBA	Drustva - mui	3	UKR	Ukrajina	
+2004	Atény	LUKOSTØELBA	Drustva - eny	3	TPN	Èína - Taipei	
+2004	Atény	BOX	Do 69 kilogramù	3	Sajtov Oleg	Rusko	
+2004	Atény	BOX	Do 69 kilogramù	3	Jung-èu Kim	Korea	
+2004	Atény	ATLETIKA	4x100 metrù - eny	3	FRA	Francie	42,54
+2004	Atény	ŠERM	Kord jednotlivci - mui	3	Kolobkov Pavel	Rusko	
+2004	Atény	JUDO	Nad 100kg[1980-1996 nad 95kg] - mui	3	Pertelson Indrek	Estonsko	
+2004	Atény	VESLOVÁNÍ	Ètyøky bez kormidelníka lehkıch vah - mui	3	ITA	Itálie	6:03,74
+2004	Atény	VESLOVÁNÍ	Párové ètyøky - eny	3	AUS	Austrálie	6:34,73
+2004	Atény	VESLOVÁNÍ	Osmy s kormidelníkem - mui	3	AUS	Austrálie	5:45,38
+2004	Atény	VESLOVÁNÍ	Ètyøky bez kormidelníka - mui	3	ITA	Itálie	6:10,41
+2004	Atény	VESLOVÁNÍ	Skif - eny	3	Nejkovová Rumjana	Bulharsko	7:23,10
+2004	Atény	VESLOVÁNÍ	Párová ètyøka - mui	3	UKR	Ukrajina	5:58,87
+2004	Atény	VESLOVÁNÍ	Osmy s kormidelnicí - eny	3	NED	Nizozemsko	6:19,85
+2004	Atény	STØELBA	Rychlopalba z pistole - mui	3	Alifirenko Sergej	Rusko	692,3
+2004	Atény	STØELBA	Vzduchová puška - mui	3	Gönci Jozef	Slovensko	697,4
+2004	Atény	STØELBA	Bìící terè - mui	3	Lykin Dmitrij	Rusko	677,1
+2004	Atény	STØELBA	Maloráka 3x40 - mui	3	Planer Christian	Rakousko	1262,8
+2004	Atény	STØELBA	Maloráka vlee - mui	3	Martynov Sergej	Bìlorusko	701,6
+2004	Atény	STØELBA	Libovolná pistole - mui	3	Kim Èong-so	Korejská LDR	657,7
+2004	Atény	STØELBA	Vzduchová pistole - mui	3	Isakov Vladimir	Rusko	684,3
+2004	Atény	VESLOVÁNÍ	Skif - mui	3	Janakijev Ivo	Bulharsko	6:52,80
+2004	Atény	BOX	Supertìká váha (over 91 kg) - mui	3	Lopez Michel	Kuba	
+2004	Atény	BOX	Lehkı welter (63.5 kg) - mui	3	Gheorghe Ionut	Rumunsko	
+2004	Atény	BOX	Lehkı welter (63.5 kg) - mui	3	Georgijev Boris	Bulharsko	
+2004	Atény	BOX	Lehká váha (60 kg) - mui	3	Jelevov Serik	Kazachstán	
+2004	Atény	BOX	Lehká váha (60 kg) - mui	3	Chraèev Murat	Rusko	
+2004	Atény	BOX	Pérová váha (57 kg) - mui	3	Sok-hwan Èo	Korea	
+2004	Atény	BOX	Pérová váha (57 kg) - mui	3	Tajbert Vitalij	Nìmecko	
+2004	Atény	BOX	Støední váha (75 kg) - mui	3	Dirrel Andre	Spojené státy americké	
+2004	Atény	BOX	Støední váha (75 kg) - mui	3	Peasathinphimai Suriya	Thajsko	
+2004	Atény	BOX	Tìká váha (91 kg) - mui	3	El Saíd Mohamed	Egypt	
+2004	Atény	BOX	Supertìká váha (over 91 kg) - mui	3	Cammarelle Roberto	Itálie	
+2004	Atény	BOX	Tìká váha (91 kg) - mui	3	Al Šamí Násir	Sırie	
+2004	Atény	BOX	Lehká støední váha (81 kg) - mui	3	Ismail Ahmed	Egypt	
+2004	Atény	BOX	Lehká støední váha (81 kg) - mui	3	Hajdarov Utkirbek	Uzbekistán	
+2004	Atény	STØELBA	Trap - mui	3	Vella Adam	Austrálie	145
+2004	Atény	STØELBA	Double trap - mui	3	Wang Èeng	Èína	178
+2004	Atény	ATLETIKA	Vrh koulí - eny	3	Kriveljovová Svìtlana	Rusko	19,49
+2004	Atény	ATLETIKA	Hod diskem - eny	3	Jatèenková Irina	Bìlorusko	66,17
+2004	Atény	ATLETIKA	Trojskok - eny	3	Lebedìvová Tajana	Rusko	15,14
+2004	Atény	ATLETIKA	Skok dalekı - eny	3	Kotovová Tajana	Rusko	705
+2004	Atény	ATLETIKA	400 metrù pøekáky - eny	3	Tìrešèuková-Antipovová Tajana	Ukrajina	53,44
+2004	Atény	ATLETIKA	Skok vysokı - eny	3	Sopinová Viktoria	Ukrajina	202
+2004	Atény	ATLETIKA	Hod oštìpem - eny	3	Manjaniová Mirela	Øecko	64,29
+2004	Atény	ATLETIKA	Sedmiboj/pìtiboj - eny	3	Sothertonová Kelly	Velká Británie	6424
+2004	Atény	JACHTING	Finn - mui	3	Kusznierewicz Mateusz	Polsko	53,0
+2004	Atény	JACHTING	Europe - eny	3	Livbjergová Signe	Dánsko	74,0
+2004	Atény	STOLNÍ TENIS	Dvouhra - mui	3	Wang Li-èchin	Èína	
+2004	Atény	STOLNÍ TENIS	Dvouhra - eny	3	Kim Kjong-a	Korea	
+2004	Atény	TENIS	Dvouhra - mui	3	Gonzalez Fernando	Chile	
+2004	Atény	TENIS	Dvouhra - eny	3	Moliková Alicia	Austrálie	
+2004	Atény	ATLETIKA	100 metrù pøekáky - eny	3	Morrisonová Melissa	Spojené státy americké	12,56
+2004	Atény	ATLETIKA	Maratón - eny	3	Kastorová Deena	Spojené státy americké	2:27:20
+2004	Atény	STØELBA	Vzduchová puška - eny	3	Kùrková Kateøina	Èeská republika	
+2004	Atény	STØELBA	Double trap - eny	3	Kao E	Èína	142
+2004	Atény	STØELBA	Maloráka 3x20 - eny	3	Wang Ècheng-i	Èína	685,4
+2004	Atény	STØELBA	Vzduchová pistole - eny	3	Grozdìvová Maria	Bulharsko	482,3
+2004	Atény	STØELBA	Skeet - mui	3	Rodriguez Juan Miguel	Kuba	147
+2004	Atény	STØELBA	Sportovní pistole - eny	3	Ašumovová Irada	Ázerbajdán	687,3
+2004	Atény	ATLETIKA	100 metrù- eny	3	Campbellová Veronica	Jamajka	10,97
+2004	Atény	ATLETIKA	200 metrù - eny	3	Fergusonová Debbie	Bahamy	22,30
+2004	Atény	ATLETIKA	5000 metrù - eny	3	Dibabaová Tiruneš	Etiopie	14:51,83
+2004	Atény	ATLETIKA	10 000 metrù - eny	3	Tuluová Derartu	Etiopie	30:26,42
+2004	Atény	ATLETIKA	1500 metrù - eny	3	Cioncanová Maria	Rumunsko	3:58,39
+2004	Atény	ATLETIKA	800 metrù - eny	3	Èeplaková Jolanda	Slovinsko	1:56,43
+2004	Atény	ATLETIKA	400 metrù - eny	3	Anuchová Natalja	Rusko	49,89
+2004	Atény	BOX	Bantamová váha (54 kg) - mui	3	Mamadov Aghasi	Ázerbajdán	
+2004	Atény	BOX	Bantamová váha (54 kg) - mui	3	Sultanov Bahodirjon	Uzbekistán	
+2004	Atény	ATLETIKA	Hod kladivem mui	3	Apak Esref	Turecko	79,51
+2004	Atény	ATLETIKA	Hod oštìpem mui	3	Makarov Sergej	Rusko	84,84
+2004	Atény	ATLETIKA	Hod diskem mui	3	Tammert Aleksander	Estonsko	66,66
+2004	Atény	ATLETIKA	Vrh koulí mui	3	Olsen Joachim	Dánsko	21,07
+2004	Atény	ATLETIKA	Skok dalekı mui	3	Martinez Joan	Španìlsko	832
+2004	Atény	ATLETIKA	Trojskok mui	3	Burkenja Danila	Rusko	17,48
+2004	Atény	BASKETBALL	Basketbal - mui	3	USA	Spojené státy americké	
+2004	Atény	BASKETBALL	Basketbal - eny	3	RUS	Rusko	
+2004	Atény	VOLEJBAL	Volejbal - mui	3	RUS	Rusko	
+2004	Atény	VOLEJBAL	Volejbal - eny	3	CUB	Kuba	
+2004	Atény	SOFTBALL	Softball - eny	3	JPN	Japonsko	
+2004	Atény	FOTBAL	Fotbal - eny	3	GER	Nìmecko	
+2004	Atény	BASEBALL	Baseball - mui	3	JPN	Japonsko	
+2004	Atény	FOTBAL	Fotbal - mui	3	ITA	Itálie	
+2004	Atény	ATLETIKA	Skok o tyèi mui	3	Gibilisco Giuseppe	Itálie	585
+2004	Atény	ATLETIKA	Skok vysokı mui	3	Bába Jaroslav	Èeská republika	234
+2004	Atény	ATLETIKA	1500 metrù mui	3	Silva Rui	Portugalsko	3:34,68
+2004	Atény	ATLETIKA	5000 metrù mui	3	Kipchoge Eliud	Keòa	13:15,10
+2004	Atény	ATLETIKA	200 metrù mui	3	Gatlin Justin	Spojené státy americké	20,03
+2004	Atény	ATLETIKA	800 metrù mui	3	Kipketer Wilson Boit	Dánsko	1:44,65
+2004	Atény	ATLETIKA	100 metrù mui	3	Greene Maurice	Spojené státy americké	9,87
+2004	Atény	ATLETIKA	400 metrù mui	3	Brew Derrick	Spojené státy americké	44,42
+2004	Atény	ATLETIKA	10000 metrù mui	3	Tadesse Zersenay	Eritrea	27:22,57
+2004	Atény	ATLETIKA	Maratón mui	3	Lima Vanderlei	Brazílie	2:12:11
+2004	Atény	ATLETIKA	20 km chùze mui	3	Deakes Nathan	Austrálie	1:20:02
+2004	Atény	ATLETIKA	50 km chùze mui	3	Vojevodin Aleksey	Rusko	3:43:34
+2004	Atény	ATLETIKA	3000 metrù pøekáek mui	3	Koech Paul Kipsiele	Keòa	8:06,64
+2004	Atény	ATLETIKA	400 metrù pøekáek mui	3	Keita Naman	Francie	48,26
+2004	Atény	ATLETIKA	110 metrù pøekáek mui	3	Garcia Anier	Kuba	13,20
+2004	Atény	PLÁOVİ VOLEJBAL	Pláovı volejbal - mui	3	Heuscher - Kobel	Švıcarsko	
+2004	Atény	PLÁOVİ VOLEJBAL	Pláovı volejbal - eny	3	McPeaková - Youngsová	Spojené státy americké	
+2004	Atény	JEZDECTVÍ	Parkur jednotlivci	3	Kappler Chris	Spojené státy americké	8
+2004	Atény	JEZDECTVÍ	Drezúra jednotlivci	3	Ferrerová-Salatová Beatriz	Španìlsko	76,667
+2004	Atény	JEZDECTVÍ	Soutì všestranné zpùsobilosti jednotlivci	3	Funnellová Philippa	Velká Británie	46,60
+2004	Atény	SKOKY DO VODY	Skoky z vìe 10 metrù - eny	3	Tourkyová Loudy	Austrálie	561,66
+2004	Atény	SKOKY DO VODY	Skoky z vìe 10 metrù - mui	3	Tchien Liang	Èína	729,66
+2004	Atény	SKOKY DO VODY	Skoky z prkna 3 metry - eny	3	Pachalinová Julia	Rusko	610,62
+2004	Atény	JEZDECTVÍ	Soutì všestranné zpùsobilosti drustva	3	USA	Spojené státy americké	145,60
+2004	Atény	JEZDECTVÍ	Parkur drustva, Cena národù	3	SWE	Švédsko	20
+2004	Atény	BOX	Muší váha (51 kg) - mui	3	Rahimov Rustamhoda	Nìmecko	
+2004	Atény	BOX	Muší váha (51 kg) - mui	3	Aslanov Fuad	Ázerbajdán	
+2004	Atény	BOX	Papírová váha (48 kg) - mui	3	Š'ming Èou	Èína	
+2004	Atény	BOX	Papírová váha (48 kg) - mui	3	Kazakov Sergej	Rusko	
+2004	Atény	JEZDECTVÍ	Drezúra drustev	3	USA	Spojené státy americké	71,500
+2004	Atény	SKOKY DO VODY	Skoky z prkna 3 metry - mui	3	Sautin Dmitrij	Rusko	753,27
+2004	Atény	KANOISTIKA	K4 500 metrù - eny	3	UKR	Ukrajina	1:36,192
+2004	Atény	KANOISTIKA	K1 500 metrù - mui	3	Wynne Ian	Velká Británie	1:38,547
+2004	Atény	KANOISTIKA	K1 1000 metrù - mui	3	van Koeverden Adam	Kanada	3:28,218
+2004	Atény	POZEMNÍ HOKEJ	Pozemní hokej - eny	3	ARG	Argentina	
+2004	Atény	POZEMNÍ HOKEJ	Pozemní hokej - mui	3	GER	Nìmecko	
+2004	Atény	HÁZENÁ	Házená - mui	3	RUS	Rusko	
+2004	Atény	HÁZENÁ	Házená - eny	3	UKR	Ukrajina	
+2004	Atény	KANOISTIKA	K1 slalom - mui	3	Lefévre Fabien	Francie	190,99
+2004	Atény	KANOISTIKA	C1 slalom - mui	3	Pfannmöller Stefan	Nìmecko	191,56
+2004	Atény	KANOISTIKA	K1 500 metrù - eny	3	Brunetová Caroline	Kanada	1:50,601
+2004	Atény	KANOISTIKA	K1 slalom - eny	3	Reevesová Helen	Velká Británie	218,77
+2004	Atény	KANOISTIKA	K4 1000 metrù - mui	3	SVK	Slovensko	2:59,314
+2004	Atény	KANOISTIKA	C1 1000 metrù - mui	3	Vajda Attila	Maïarsko	3:49,025
+2004	Atény	KANOISTIKA	C1 500 metrù - mui	3	Opalev Maxim	Rusko	1:47,767
+2004	Atény	JACHTING	Laser - MIX	3	Zbogar Vasilij	Slovinsko	76,0
+2004	Atény	PLAVÁNÍ	50 metrù volnı zpùsob - mui	3	Schoeman Roland	Jihoafrická republika	22,02
+2004	Atény	TENIS	Ètyøhry - mui	3	Anèiè - Ljubièiè	Chorvatsko	
+2004	Atény	TENIS	Ètyøhry - eny	3	Suarezová - Tarabiniová	Argentina	
+2004	Atény	STOLNÍ TENIS	Ètyøhry - eny	3	Kou - Niou	Èína	
+2004	Atény	STOLNÍ TENIS	Ètyøhry - mui	3	Maze - Tugwell	Dánsko	
+2004	Atény	JACHTING	Tornado - MIX	3	Lange - Espiòola	Argentina	54
+2004	Atény	JACHTING	Star - MIX	3	Rohart - Rambeau	Francie	54
+2004	Atény	LUKOSTØELBA	Jednotlivci - mui	3	Cuddihy Tim	Austrálie	
+2004	Atény	LUKOSTØELBA	Jednotlivkynì - eny	3	Williamsonová Alison	Velká Británie	
+2004	Atény	VZPÍRÁNÍ	Støední váha (77 kg) - mui	3	Perepeèenov Oleg	Rusko	365 kg
+2004	Atény	VZPÍRÁNÍ	Lehká tìká váha (85 kg) - mui	3	Dimas Pyrros	Øecko	377,5 kg
+2004	Atény	VZPÍRÁNÍ	Lehká váha (69 kg) - mui	3	Pešalov Nikolaj	Chorvatsko	337,5 kg
+2004	Atény	VZPÍRÁNÍ	Pérová váha (62kg) - mui	3	Rubio Israel	Venezuela	295 kg
+2004	Atény	ATLETIKA	Desetiboj - mui	3	Karpov Dmitrij	Kazachstán	8725
+2004	Atény	VZPÍRÁNÍ	Bantamová váha (56 kg) - mui	3	Artuc Sedat	Turecko	280,0 kg
+2004	Atény	JACHTING	470 - eny	3	Torgerssonová - Zachrissonová	Švédsko	63,0
+2004	Atény	JACHTING	470 - mui	3	Seki - Todoroki	Japonsko	90,0
+2004	Atény	KANOISTIKA	C2 slalom - mui	3	Štìpánek - Volf	Èeská republika	
+2004	Atény	KANOISTIKA	K2 500 metrù - eny	3	Pastuszková - Sokolowská-Kuleszová	Polsko	1:40,077
+2004	Atény	KANOISTIKA	C2 1000 metrù - mui	3	Kozmann - Kolonics	Maïarsko	3:43,106
+2004	Atény	KANOISTIKA	C2 500 metrù - mui	3	Kostoglod - Kovaljov	Rusko	1:40,442
+2004	Atény	KANOISTIKA	K2 500 metrù - mui	3	Pjatrzšenko - Machnìv	Bìlorusko	1:27,996
+2004	Atény	KANOISTIKA	K2 1000 metrù - mui	3	Larsen - Fjeldheim	Norsko	3:19,528
+2004	Atény	SYNCHRONIZOVANÉ PLAVÁNÍ	Dvojice - eny	3	Bartosiková - Kozlovová	Spojené státy americké	96,918
+2004	Atény	VESLOVÁNÍ	Dvojskif - mui	3	Galtarossa - Sartori	Itálie	6:32,93
+2004	Atény	VESLOVÁNÍ	Dvojky bez kormidelnice - eny	3	Bièiková - Helachová	Bìlorusko	7:09,86
+2004	Atény	VESLOVÁNÍ	Dvojskif lehkıch vah - eny	3	van Eupenová - van der Kolková	Nizozemsko	6:58,54
+2004	Atény	VESLOVÁNÍ	Dvojskif - eny	3	Lavericková - Wincklessová	Velká Británie	7:07,58
+2004	Atény	VESLOVÁNÍ	Dvojskif lehkıch vah - mui	3	Skiathitis - Polymeros	Øecko	6:23,23
+2004	Atény	VESLOVÁNÍ	Dvojky bez kormidelníka - mui	3	Cech - di Clemente	Jihoafrická republika	6:33,40
+2004	Atény	VZPÍRÁNÍ	Polotìká váha (94 kg) - - mui	3	Tjukin Eduard	Rusko	397,5 kg
+2004	Atény	VZPÍRÁNÍ	Tìká váha (105 kg) - mui	3	Pisarevskij Gleb	Rusko	415,0
+2004	Atény	CYKLISTIKA	Stíhaèka drustev 4000 metrù	3	ESP	Španìlsko	
+2004	Atény	GYMNASTIKA	Víceboje - mui	3	Jang Te-jong	Korea	57,774
+2004	Atény	CYKLISTIKA	Horská kola - eny	3	Spitzová Sabine	Nìmecko	-2:30
+2004	Atény	CYKLISTIKA	Silnièní závod - eny	3	Sljusarevová Olga	Rusko	-39
+2004	Atény	CYKLISTIKA	Bodovací závod - eny	3	Mirabellaová Erin	Spojené státy americké	9
+2004	Atény	CYKLISTIKA	Èasovka jednotlivkyò - eny	3	Thürigová Karin	Švıcarsko	-43
+2004	Atény	GYMNASTIKA	Hrazda - mui	3	Joneda Isao	Japonsko	9,787
+2004	Atény	GYMNASTIKA	Bradla - mui	3	Li Sien-pcheng	Èína	9,762
+2004	Atény	GYMNASTIKA	Prostná - mui	3	Jovèev Jordan	Bulharsko	9,775
+2004	Atény	GYMNASTIKA	Víceboj - eny	3	Nan Èang	Èína	38,049
+2004	Atény	GYMNASTIKA	Kruhy - mui	3	Chechi Yuri	Itálie	9,812
+2004	Atény	GYMNASTIKA	Kùò našíø - mui	3	Kašima Takehiro	Japonsko	9,787
+2004	Atény	GYMNASTIKA	Pøeskok - mui	3	Dragulescu Marian	Rumunsko	9,612
+2004	Atény	CYKLISTIKA	Stíhaèka jednotlivkyò 3000 metrù - eny	3	Zijlaardová-van Moorselová Leontien	Nizozemsko	
+2004	Atény	CYKLISTIKA	Sprint 1000 metrù - eny	3	Mearesová Anna	Austrálie	
+2004	Atény	BADMINTON	Ètyøhry - eny	3	Na - I	Korea	
+2004	Atény	BADMINTON	Ètyøhry - MIX	3	Eriksen - Schjoldagerová	Dánsko	
+2004	Atény	BADMINTON	Ètyøhry - mui	3	Eriksen - Lundgaard	Dánsko	
+2004	Atény	BADMINTON	Dvouhry - eny	3	Èou Mi	Èína	
+2004	Atény	VZPÍRÁNÍ	Supertìká váha - mui	3	Èolakov Velièko	Bulharsko	447,5
+2004	Atény	BADMINTON	Dvouhry - mui	3	Kuncoro Soni	Indonésie	
+2004	Atény	CYKLISTIKA	Sprint 1000 metrù - mui	3	Volff Rene	Nìmecko	
+2004	Atény	CYKLISTIKA	Pevnı kilometr - mui	3	Nimke Stefan	Nìmecko	1:01,186
+2004	Atény	CYKLISTIKA	Silnièní závod - mui	3	Merckx Axel	Belgie	-6
+2004	Atény	CYKLISTIKA	Horská kola - mui	3	Brentjens Bart Jan	Nizozemsko	-2:03
+2004	Atény	CYKLISTIKA	Èasovka jednotlivcù - mui	3	Julich Bobby	Spojené státy americké	-26
+2004	Atény	CYKLISTIKA	Bodovací závod - mui	3	Fulst Guido	Nìmecko	79
+2004	Atény	CYKLISTIKA	Stíhaèka jednotlivcù 4000 metrù - mui	3	Escobar Sergi	Španìlsko	
+2004	Atény	VODNÍ PÓLO	Vodní pólo - mui	3	RUS	Rusko	
+2004	Atény	SYNCHRONIZOVANÉ PLAVÁNÍ	Drustva - eny	3	USA	Spojené státy americké	97,418
+2004	Atény	PLAVÁNÍ	100 metrù prsa - eny	3	Jonesová Leisel	Austrálie	1:07,16
+2004	Atény	PLAVÁNÍ	200 metrù prsa - eny	3	Poleská Anne	Nìmecko	2:25,82
+2004	Atény	PLAVÁNÍ	200 metrù znak - eny	3	Nakamuraová Reiko	Japonsko	2:09,88
+2004	Atény	PLAVÁNÍ	200 metrù znak - eny	3	Buschschulteová Antje	Nìmecko	2:09,88
+2004	Atény	PLAVÁNÍ	800 metrù volnı zpùsob - eny	3	Munzová Diana	Spojené státy americké	8:26,61
+2004	Atény	PLAVÁNÍ	100 metrù znak - eny	3	Manaudouová Laure	Francie	1:00,88
+2004	Atény	PLAVÁNÍ	100 metrù motılek - eny	3	de Bruijnová Inge	Nizozemsko	57,99
+2004	Atény	PLAVÁNÍ	200 metrù motılek - eny	3	Nakanišiová Juko	Japonsko	2:08,04
+2004	Atény	PLAVÁNÍ	4 x 100 metrù polohovka - mui	3	JPN	Japonsko	3:35,22
+2004	Atény	PLAVÁNÍ	4 x 100 metrù volnı zpùsob - eny	3	NED	Nizozemsko	3:37,59
+2004	Atény	PLAVÁNÍ	4 x 200 metrù volnı zpùsob - mui	3	ITA	Itálie	7:11,83
+2004	Atény	PLAVÁNÍ	4 x 100 metrù volnı zpùsob - mui	3	USA	Spojené státy americké	3:14,62
+2004	Atény	PLAVÁNÍ	200 metrù polohovka - eny	3	Coventryová Kirsty	Zimbabwe	2:12,72
+2004	Atény	PLAVÁNÍ	400 metrù polohovka - eny	3	Bardachová Georgina	Argentina	4:37,51
+2004	Atény	PLAVÁNÍ	400 metrù volnı zpùsob - eny	3	Sandenová Kaitlin	Spojené státy americké	4:06,19
+2004	Atény	PLAVÁNÍ	200 metrù volnı zpùsob - eny	3	Figuesová Solenne	Francie	1:58,45
+2004	Atény	PLAVÁNÍ	100 metrù znak - mui	3	Morita Tomomi	Japonsko	54,36
+2004	Atény	PLAVÁNÍ	200 metrù znak - mui	3	Florea Razvan Ionut	Rumunsko	1:57,56
+2004	Atény	PLAVÁNÍ	1500 metrù volnı zpùsob - mui	3	Davies David	Velká Británie	14:45,95
+2004	Atény	PLAVÁNÍ	400 metrù volnı zpùsob - mui	3	Keller Klete	Spojené státy americké	3:44,11
+2004	Atény	PLAVÁNÍ	100 metrù volnı zpùsob - mui	3	Thorpe Ian	Austrálie	48,56
+2004	Atény	PLAVÁNÍ	200 metrù volnı zpùsob - mui	3	Phelps Michael	Spojené státy americké	1:45,32
+2004	Atény	PLAVÁNÍ	100 metrù prsa - mui	3	Duboscq Hugues	Francie	1:00,88
+2004	Atény	PLAVÁNÍ	200 metrù prsa - mui	3	Hansen Brendan	Spojené státy americké	2:10,87
+2004	Atény	PLAVÁNÍ	400 metrù polohovka - mui	3	Cseh Laszló	Maïarsko	4:12,15
+2004	Atény	PLAVÁNÍ	50 metrù volnı zpùsob - eny	3	Lentonová Lisbeth	Austrálie	24,91
+2004	Atény	PLAVÁNÍ	200 metrù polohovka - mui	3	Bovell George	Trinidad a Tobago	1:58,80
+2004	Atény	PLAVÁNÍ	200 metrù motılek - mui	3	Parry Stephen	Velká Británie	1:55,52
+2004	Atény	PLAVÁNÍ	100 metrù motılek - mui	3	Serdinov Andrij	Ukrajina	51,36
+2004	Atény	PLAVÁNÍ	4 x 200 metrù volnı zpùsob - eny	3	GER	Nìmecko	7:57,35
+2004	Atény	PLAVÁNÍ	4 x 100 metrù polohovka - eny	3	GER	Nìmecko	4:00,72
+2004	Atény	JUDO	Do 63 kg - eny	3	Zolnirová Urska	Slovinsko	
+2004	Atény	JUDO	Do 63 kg - eny	3	Gonzalesová Driulys	Kuba	
+2004	Atény	JUDO	Do 57 kg - eny	3	Lupeteyová Yurisleidy	Kuba	
+2004	Atény	JUDO	Do 57 kg - eny	3	Gravenstijnová Deborah	Nizozemsko	
+2004	Atény	JUDO	Do 52 kg - eny	3	Savonová Amarilys	Kuba	
+2004	Atény	JUDO	Do 52 kg - eny	3	Heylenová Ilse	Belgie	
+2004	Atény	JUDO	Do 70 kg - eny	3	Tung-ja Èchin	Èína	
+2004	Atény	JUDO	Do 70 kg - eny	3	Böhmová Annett	Nìmecko	
+2004	Atény	JUDO	Nad 78 kg - eny	3	Fu-ming Sun	Èína	
+2004	Atény	MODERNÍ PÌTIBOJ	Jednotlivci - mui	3	Capalini Libor	Èeská republika	
+2004	Atény	JUDO	Nad 78 kg - eny	3	Donguzašviliová Tea	Rusko	
+2004	Atény	JUDO	Do 78 kg - eny	3	Labordeová Yurisel	Kuba	
+2004	Atény	JUDO	Do 78 kg - eny	3	Moricová Lucia	Itálie	
+2004	Atény	JUDO	Do 48 kg - eny	3	Kao Feng	Èína	
+2004	Atény	JUDO	Do 48 kg - eny	3	Matijassová Julia	Nìmecko	
+2004	Atény	JUDO	Do 73 kg [1980-1996 71kg] - mui	3	Pedro James	Spojené státy americké	
+2004	Atény	JUDO	Do 73 kg [1980-1996 71kg] - mui	3	Guilheiro Leandro	Brazílie	
+2004	Atény	JUDO	Do 66 kg [1980-1996 65 kg] - mui	3	Arencibia Yordanis	Kuba	
+2004	Atény	JUDO	Do 66 kg [1980-1996 65 kg] - mui	3	Georgijev Georgi	Bulharsko	
+2004	Atény	JUDO	Do 60 kg - mui	3	Tsagánbátar Chašbatár	Mongolsko	
+2004	Atény	JUDO	Do 60 kg - mui	3	Min-ho Èche	Korea	
+2004	Atény	JUDO	Do 81 kg [1980-1996 78 kg]) - mui	3	Canto Flávio	Brazílie	
+2004	Atény	JUDO	Do 81 kg [1980-1996 78 kg]) - mui	3	Nosov Dmitrij	Rusko	
+2004	Atény	JUDO	Do 100 kg [1980-1996 95 kg] - mui	3	Jurack Michael	Nìmecko	
+2004	Atény	JUDO	Nad 100kg[1980-1996 nad 95kg] - mui	3	van der Geest Dennis	Nizozemsko	
+2004	Atény	JUDO	Do 100 kg [1980-1996 95 kg] - mui	3	Zeevi Ariel	Izrael	
+2004	Atény	JUDO	Do 90 kg [1980-1996 86 kg] - mui	3	Taov Chasanbi	Rusko	
+2004	Atény	JUDO	Do 90 kg [1980-1996 86 kg] - mui	3	Huizinga Mark	Nizozemsko	
+2004	Atény	GYMNASTIKA	Pøeskok - eny	3	Pavlovová Anna	Rusko	9,475
