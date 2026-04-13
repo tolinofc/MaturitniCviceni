@@ -218,8 +218,10 @@ async function getPlaceDetail(id) {
     comments.forEach(c => {
         let divComment = commentTemplate.content.cloneNode(true)
 
+        let date = new Date(c.rating_date)
+
         divComment.querySelector('.person-name').textContent = c.rating_author
-        divComment.querySelector('.person-date').textContent = c.rating_date
+        divComment.querySelector('.person-date').textContent = date.toLocaleString('cs-CZ')
         divComment.querySelector('.comment-text').textContent = c.comment
 
         divComment.querySelector('.btn-delete-comment').addEventListener('click', async () => {
