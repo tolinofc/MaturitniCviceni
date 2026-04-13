@@ -107,7 +107,7 @@ async function getPlaces(cityId, cityName) {
 
         await fetch('/place', {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(data)
         })
 
@@ -166,7 +166,7 @@ async function openEditForm(place, cityId, cityName) {
 
         await fetch(`/place/${place.place_id}`, {
             method: 'PUT',
-            headers: { 'Content-Type': 'application/json' },
+            headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(data)
         })
 
@@ -207,6 +207,23 @@ async function getPlaceDetail(id) {
         } else {
             div.textContent = '⭐'
         }
+
+        div.addEventListener('click', async () => {
+            let data = {
+                'rating': i + 1
+            }
+
+            const response = await fetch(`/review/place/rating/${place.place_id}`, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify(data)
+            })
+
+            if (response.ok) {
+                document.body.querySelector('.place-detail').remove()
+                await getPlaceDetail(id)
+            }
+        })
         rating.appendChild(div)
     }
 
@@ -248,7 +265,7 @@ async function getPlaceDetail(id) {
 
         const response = await fetch(`/review/place/comment/${id}`, {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(data)
         })
 
