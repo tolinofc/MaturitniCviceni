@@ -1,0 +1,14 @@
+﻿@model Article
+
+<form asp-action="Create">
+	<input id="Text1" type="text" asp-for="Title"/>
+	<span asp-validation-for="Title"></span>
+
+	<textarea id="TextArea1" rows="2" cols="20" asp-for="Content"></textarea>
+	<span asp-validation-for="Content"></span>
+
+	<input id="Checkbox1" type="checkbox" asp-for="Published"/>
+	<span asp-validation-for="Published"></span>
+
+	<button type="submit">Ulozit</button>
+</form>

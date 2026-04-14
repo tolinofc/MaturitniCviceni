@@ -1,0 +1,10 @@
+﻿<h1>Numbers</h1>
+
+<ul>
+	@for(int i = this.ViewBag.start; i < this.ViewBag.End; i++)
+	{
+		<a asp-controller="Numbers" asp-action="Index" asp-route-start="@i" asp-route-count="@this.ViewBag.Count">
+			<li>@i</li>
+		</a>
+	}
+</ul>

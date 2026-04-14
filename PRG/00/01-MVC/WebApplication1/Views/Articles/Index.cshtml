@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Article>
+
+<table style="table">
+	<tr>
+		<td>Titulek</td>
+		<td><a asp-action="Create">Vytvorit</a></td>
+	</tr>
+	@foreach (Article article in Model)
+	{
+		<tr>
+			<td>@article.Title</td>
+			<td>
+				<a asp-action="Detail" asp-route-id="@article.Id">Zobrazit</a>
+				<a asp-action="Edit" asp-route-id="@article.Id">Upravit</a>
+				<a asp-action="Delete" asp-route-id="@article.Id">Odstranit</a>
+			</td>
+		</tr>
+	}
+</table>

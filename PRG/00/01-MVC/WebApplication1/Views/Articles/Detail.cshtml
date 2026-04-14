@@ -1,0 +1,9 @@
+﻿@model Article
+
+<ul>
+    <li><strong>Titulek:</strong> @Model.Title</li>
+    <li><strong>Obsah:</strong> @Model.Content</li>
+    <li><strong>Zveřejněno:</strong> @(Model.Published ? "Ano" : "Ne")</li>
+</ul>
+
+<a asp-action="Index" class="btn btn-secondary">Zpět na seznam</a>
