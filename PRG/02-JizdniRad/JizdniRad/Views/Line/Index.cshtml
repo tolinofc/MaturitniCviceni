@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Line>
+
+<form asp-action="Detail" method="get">
+	<select name="id">
+		@foreach(Line line in Model)
+		{
+			<option value="@line.Id">@line.Name - @line.Direction</option>
+		}
+	</select>
+
+	<button type="submit"> OK </button>
+</form>

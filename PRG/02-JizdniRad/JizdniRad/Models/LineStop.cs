@@ -1,5 +1,8 @@
-﻿namespace JizdniRad.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace JizdniRad.Models
 {
+    [Table("LineStop")]
     public class LineStop
     {
         public int Id { get; set; }

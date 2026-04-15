@@ -1,0 +1,12 @@
+﻿@model Line
+
+<div>
+	<h1>@Model.Name - @Model.Direction</h1>
+
+	<ul>
+		@foreach(LineStop stop in ViewBag.stops)
+		{
+			<li> @stop.Stop.Name </li>
+		}
+	</ul>
+</div>

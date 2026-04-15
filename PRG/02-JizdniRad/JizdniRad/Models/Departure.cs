@@ -1,5 +1,8 @@
-﻿namespace JizdniRad.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace JizdniRad.Models
 {
+    [Table("Departure")]
     public class Departure
     {
         public int Id { get; set; }
