@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Stop>
+
+<form asp-action="Edit" method="get">
+	<select name="id">
+		@foreach (Stop stop in Model)
+		{
+			<option value="@stop.Id">@stop.Name</option>
+		}
+	</select>
+
+	<button type="submit"> Upravit </button>
+</form>

@@ -3,10 +3,23 @@
 <div>
 	<h1>@Model.Name - @Model.Direction</h1>
 
-	<ul>
-		@foreach(LineStop stop in ViewBag.stops)
-		{
-			<li> @stop.Stop.Name </li>
-		}
-	</ul>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>
+					Nazev zastavky
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (LineStop stop in ViewBag.stops)
+			{
+				<tr>
+					<td>
+						<a asp-controller="Stop" asp-action="Detail" asp-route-id="@Model.Id" asp-route-stopId="@stop.StopId"> @stop.Stop.Name </a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
 </div>

@@ -29,6 +29,38 @@ namespace JizdniRad.Controllers
                                             .OrderBy(s => s.StopOrder)
                                             .ToList();
 
+            List<Departure> departures = this.context.Departures
+                                                    .Where(d => d.LineId == line.Id)
+                                                    .ToList();
+
+            this.ViewBag.stops = stops;
+
+            return View(line);
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            List<Stop> stops = this.context.Stops.ToList();
+            this.ViewBag.stops = stops;
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Create(Line line)
+        {
+            if (ModelState.IsValid)
+            {
+                Line newLine = line;
+
+                this.context.Lines.Add(newLine);
+                this.context.SaveChanges();
+
+                return RedirectToAction("Index");
+            }
+
+            List<Stop> stops = this.context.Stops.ToList();
             this.ViewBag.stops = stops;
 
             return View(line);

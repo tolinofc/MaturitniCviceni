@@ -1,0 +1,68 @@
+﻿@model Line
+
+@* @section Styles {
+	body {
+		display: flex;
+		flex-direction: row;
+	}
+} *@
+
+<div>
+	<h1>@ViewBag.currentStop.Name - @Model.Name</h1>
+
+	<table class="table">
+		<thead>
+			<tr>
+				<th>
+					Nazev zastavky
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (LineStop stop in ViewBag.stops)
+			{
+				<tr>
+					<td>
+						@if (stop.Stop.Id == ViewBag.currentStop.Id)
+						{
+							<b>@stop.Stop.Name</b>
+						}
+						else
+						{
+							<a asp-controller="Stop" asp-action="Detail" asp-route-id="@Model.Id" asp-route-stopId="@stop.StopId"> @stop.Stop.Name </a>
+						}
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+	<table class="table">
+		<thead>
+			<tr>
+				<th style="width: 10px;">
+					Hodina
+				</th>
+				<th>
+					Pracovni den
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (int hour in ViewBag.workingHours)
+			{
+				<tr>
+					<td> @hour </td>
+
+					@foreach (DateTime minute in ViewBag.minutes)
+					{
+						if (minute.Hour == hour)
+						{
+							<td>@minute.Minute</td>
+						}
+					}
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

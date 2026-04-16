@@ -1,0 +1,9 @@
+﻿@model Stop
+
+<form asp-action="Edit">
+	<input type="hidden" asp-for="Id" />
+
+	<input asp-for="Name" type="text" />
+	<span asp-validation-for="Name"></span>
+	<button type="submit">OK</button>
+</form>

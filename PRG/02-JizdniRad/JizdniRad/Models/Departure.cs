@@ -10,7 +10,7 @@ namespace JizdniRad.Models
         public int LineId { get; set; }
         public Line Line { get; set; }
 
-        public TimeOnly DepartureTime { get; set; }
+        public DateTime DepartureTime { get; set; }
         public int DayType { get; set; }
     }
 }
