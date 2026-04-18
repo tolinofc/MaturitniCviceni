@@ -10,7 +10,24 @@ namespace JizdniRad.Controllers
 
         public IActionResult Index()
         {
-            return View(this.context.Stops.OrderBy(s => s.Name).ToList());
+            return View(context.Stops.OrderBy(s => s.Name).ToList());
+        }
+
+        public IActionResult Details(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            Stop? stop = context.Stops.FirstOrDefault(m => m.Id == id);
+
+            if (stop == null)
+            {
+                return NotFound();
+            }
+
+            return View(stop);
         }
 
         public IActionResult Detail(int id, int stopId)
@@ -35,6 +52,7 @@ namespace JizdniRad.Controllers
 
             List<Departure> departures = this.context.Departures
                                                     .Where(d => d.LineId == line.Id)
+                                                    .OrderBy(d => d.DepartureTime)
                                                     .ToList();
 
             this.ViewBag.stops = stops;
@@ -58,7 +76,7 @@ namespace JizdniRad.Controllers
                 for (int j = 0; j < stops.Count; j++)
                 {
                     timeToAdd += stops[j].TimeFromPrevious;
-                    if (stop.Id == stops[j].Id)
+                    if (stop.Id == stops[j].StopId)
                     {
                         break;
                     }
@@ -73,29 +91,105 @@ namespace JizdniRad.Controllers
         }
 
         [HttpGet]
-        public IActionResult Edit(int id)
+        public IActionResult Create()
         {
-            Stop? stop = this.context.Stops.Find(id);
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Stop stop)
+        {
+            if (ModelState.IsValid)
+            {
+                context.Add(stop);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(stop);
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var stop = context.Stops.Find(id);
             if (stop == null)
             {
-                return RedirectToAction("Index");
+                return NotFound();
             }
             return View(stop);
         }
 
         [HttpPost]
-        public IActionResult Edit(Stop stop)
+        public IActionResult Edit(int id, Stop stop)
         {
+            if (id != stop.Id)
+            {
+                return NotFound();
+            }
+
             if (ModelState.IsValid)
             {
-                this.context.Entry(stop).State = EntityState.Modified;
-                this.context.SaveChanges();
+                try
+                {
+                    context.Update(stop);
+                    context.SaveChanges();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!StopExists(stop.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            return View(stop);
+        }
 
-                return RedirectToAction("Index");
+        [HttpGet]
+        public IActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var stop = context.Stops
+                .FirstOrDefault(m => m.Id == id);
+            if (stop == null)
+            {
+                return NotFound();
             }
 
             return View(stop);
+        }
 
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var stop = context.Stops.Find(id);
+            if (stop != null)
+            {
+                context.Stops.Remove(stop);
+            }
+
+            context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
+        private bool StopExists(int id)
+        {
+            return context.Stops.Any(e => e.Id == id);
         }
     }
 }

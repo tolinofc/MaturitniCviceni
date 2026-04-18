@@ -1,0 +1,17 @@
+﻿@model LineStop
+
+<form asp-action="AddStops">
+	<input asp-for="LineId" type="hidden" />
+
+	<select asp-items="ViewBag.stops" asp-for="StopId"></select>
+
+	<label asp-for="StopOrder">Poradi v lince</label>
+	<input asp-for="StopOrder" type="number" min="1" value="1" />
+	<span asp-validation-for="StopOrder"></span>
+
+	<label asp-for="TimeFromPrevious">Doba jizdy</label>
+	<input asp-for="TimeFromPrevious" type="number" min="0" />
+	<span asp-validation-for="TimeFromPrevious"></span>
+
+	<button type="submit">Pridat</button>
+</form>
