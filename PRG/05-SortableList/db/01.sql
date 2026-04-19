@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Počítač: localhost:3306
--- Vytvořeno: Sob 18. dub 2026, 18:37
+-- Vytvořeno: Ned 19. dub 2026, 16:31
 -- Verze serveru: 10.11.11-MariaDB-0+deb12u1
 -- Verze PHP: 8.2.28
 
@@ -39,14 +39,14 @@ CREATE TABLE `Products` (
 --
 
 INSERT INTO `Products` (`Id`, `Name`, `ProductOrder`, `Selected`) VALUES
-(1, 'Zkouska1', 2, 1),
-(2, 'Zkouska2', 5, 0),
-(3, 'Zkouska3', 4, 0),
-(4, 'Zkouska4', 1, 1),
-(5, 'Zkouska5', 6, 0),
-(6, 'Zkouska6', 7, 0),
-(7, 'Zkouska7', 3, 1),
-(8, 'Zkouska8', 0, 1);
+(1, 'Produkt 1', 4, 0),
+(2, 'Produkt 2', 0, 1),
+(3, 'Produkt 3', 1, 1),
+(4, 'Produkt 4', 5, 0),
+(5, 'Produkt 5', 6, 0),
+(6, 'Produkt 6', 7, 0),
+(7, 'Produkt 7', 3, 1),
+(8, 'Produkt 8', 2, 1);
 
 --
 -- Indexy pro exportované tabulky

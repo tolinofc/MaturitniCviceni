@@ -25,6 +25,10 @@ namespace SortableList.Controllers
 
         public Func<T, string> ShowableText { get; set; }
 
+        public event EventHandler<T> ItemSelectionChanged;
+
+        public event Action<T, int> ItemOrderChanged;
+
         protected override void OnPaint(PaintEventArgs e)
         {
             Graphics g = e.Graphics;
@@ -44,12 +48,12 @@ namespace SortableList.Controllers
                 {
                     if (IsSelected(item))
                     {
-                        leftY += itemHeight;
-                    } else
-                    {
                         rightY += itemHeight;
                     }
-
+                    else
+                    {
+                        leftY += itemHeight;
+                    }
                     continue;
                 }
 
@@ -60,15 +64,15 @@ namespace SortableList.Controllers
                 RectangleF rect;
                 if (IsSelected(item))
                 {
-                    rect = new RectangleF(leftPadding, leftY, itemWidth, itemHeight);
-                    textPosition = new PointF(leftPadding + itemWidth / 2 - textSize.Width / 2, leftY + itemHeight / 2 - textSize.Height / 2);
-                    leftY += itemHeight;
-                }
-                else
-                {
                     rect = new RectangleF(Width / 2 + leftPadding, rightY, itemWidth, itemHeight);
                     textPosition = new PointF(leftPadding + Width / 2 + itemWidth / 2 - textSize.Width / 2, rightY + itemHeight / 2 - textSize.Height / 2);
                     rightY += itemHeight;
+                }
+                else
+                {
+                    rect = new RectangleF(leftPadding, leftY, itemWidth, itemHeight);
+                    textPosition = new PointF(leftPadding + itemWidth / 2 - textSize.Width / 2, leftY + itemHeight / 2 - textSize.Height / 2);
+                    leftY += itemHeight;
                 }
 
                 g.FillRectangle(Brushes.Aqua, rect);
@@ -122,8 +126,29 @@ namespace SortableList.Controllers
 
         protected override void OnMouseUp(MouseEventArgs e)
         {
-            this.draggedItem = null;
-            Invalidate();
+            if (draggedItem != null)
+            {
+                int newIndex = (e.Y - 20) / 40;
+
+                if (e.X < Width / 2 && IsSelected(draggedItem.Item))
+                {
+                    ItemSelectionChanged?.Invoke(this, draggedItem.Item);
+                }
+                else if (e.X > Width / 2 && !IsSelected(draggedItem.Item))
+                {
+                    ItemSelectionChanged?.Invoke(this, draggedItem.Item);
+                }
+
+                if (newIndex < 0)
+                {
+                    newIndex = 0;
+                }
+
+                ItemOrderChanged.Invoke(draggedItem.Item, newIndex);
+
+                this.draggedItem = null;
+                Invalidate();
+            }
         }
     }
 }
